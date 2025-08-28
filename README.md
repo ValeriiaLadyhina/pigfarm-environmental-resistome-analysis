@@ -11,4 +11,5 @@ Included scripts:
 * ABRicate search for ARGs against Argannot, CARD, MEGARes, NCBI AMRFinderPlus and Resfinder
 * kaiju for microbiome analysis
 
+Dictionary of antimicrobial resistance genes (ARGs) created to harmonize results from five databases used in the study (ARG-ANNOT, CARD, MEGARes, NCBI AMRFinderPlus, ResFinder) based on ARGs detected in Swedish pig farm samples. Standard gene names were assigned through manual curation against the CARD database.
 
