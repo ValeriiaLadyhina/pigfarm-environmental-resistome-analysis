@@ -1,0 +1,1533 @@
+DATABASE;Antibiotic.Class;GENE;ACCESSION;Standard.Gene.Name;Antibiotic.Gene.Family;Disinfecting.Agent;Metal.resistance;Mechanism
+ARG-ANNOT;aminoglycoside;(AGly)aac-IVa;X01385:244-1029;AAC(3)-Iva;AAC(3);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aac3-IIa;X51534:91-951;AAC(3)-Iie;AAC(3');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aac3-IId;EU022314:1-861;"	AAC(3)-Iid";AAC(3);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aac6-Aph2;M13771:304-1743;AAC6_Ie_APH2_Ia;aminoglycoside bifunctional resistance protein;;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aac6-Iad;AB119105:1-435;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aac6-Im;AF337947:1215-1751;AAC(6')-Im;AAC(6');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aad9;M69221:271-1038;ANT(9)-Ib;ANT(9);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA1-pm;JQ690540:7968-8798;aadA;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA11;AJ567827:1-792;aadA11;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA13;AY713504:1-798;aadA13;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA14;AJ884726:540-1325;aadA14;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA2;X68227:66-945;aadA2;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA24;HQ123586:88-768;aadA24;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA27;NG_054660:101-889;aadA27;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA5;AF137361:64-852;"	aadA5";ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA6;AF140629:61-906;aadA11;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA7;AF224733:32-829;"	aadA7";ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadA9;AJ420072:26773-27609;aadA9;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadB;JQ690540:4275-4808;ANT(2'')-Ia;ANT(2'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadC;V01282:225-701;aadC;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadD;AF181950:3176-3946;ANT(4')-Ia;ANT(4');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aadS;NG_047380:101-964;aadS;ANT(6);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)ant(3'')-IIa;NG_054648:101-889;ANT(3'')-Iia;ANT(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)ant6-Ia;AF330699:22-930;ANT(6)-Ia;ANT(6);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)ant6-Ib;FN594949:27482-28339;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)apH-Stph;HE579073:1778413-1779213;APH(9)-Ia;APH(9);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aph(2'')-Ic;U51479:196-1116;APH(2'')-IIIa;"APH(2"")";;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aph(2'')-Ih;NG_047408:1-894;APH(2'')-If;APH(2'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aph(3'')-Ia;FJ172370:38668-39483;APH(3')-Ia;APH(3');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aph(3'')-III;V01547:535-1329;APH(3')-IIIa;APH(3');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aph(3')-IX;NG_055648:101;APH(3')-IXa;APH(3');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aph4-Ia;V01499:231-1256;APH(4)-Ia;APH(4);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aph7;GG774704:686456-687373;APH(7);APH(7'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aphA2;X57709:1-795;APH(3')-IIa;APH(3');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)aphA6;JF949760:695-1474;"	APH(3')-Via";APH(3');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)rmtF;JQ808129:55-876;"	rmtF";16S rRNA methyltransferase (G1405);;;antibiotic target alteration
+ARG-ANNOT;aminoglycoside;(AGly)spc;X02588:331-1113;"	ANT(9)-Ia";ANT(9);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)spw;NG_048075:101-910;ANT(9)-Ia;APH(9);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)str;X92946:18908-18060;aadK;ANT(6);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)strA;AB366441:22458-23261;APH(3'')-Ib;APH(3'');;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;(AGly)strB;FJ474091:264-1100;APH(6)-Id;APH(6);;;antibiotic inactivation
+ARG-ANNOT;aminoglycoside;AGly)aph(3')-IX;NG_055648:101;APH(3')-IXa;APH(3');;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)aci1;AJ007350:240-1094;ACI-1;ACI beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)AmpC1_Ecoli;FN649414:2765051-2766355;PDC-391;PDC beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)AmpC2_Ecoli;CP002970:332756-333889;Ecol_ampC_BLA;ampC-type beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)ampH_Ecoli;AP012030:395554-396711;ampH;ampC-type beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaARL-1;NG_054950:101-949;ARL-1;ARL Beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaCARB-16;NG_048718:101-997;CARB-16;CARB beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaCBP-1;NG_048756:1-927;"	CBP-1";CBP beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaCMY-1;X92508:1-1149;CMY-1;CMY beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaEBR-1;AF416700:57-764;EBR-2;EBR beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaIMP-13;JN091097:261-1001;"	IMP-13";IMP beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaMOX-6;GQ152601:1-1152;MOX-25;MOX beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaMUS-1;AF441286:225-965;MUS-1;MUS beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOCH-7;AJ295345:1-1173;OCH-7;OCH beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOXA-1;JQ682867:1-831;OXA-1;OXA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOXA-2;HM131431:1-828;"	OXA-2";OXA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOXA-20;AF024602:1238-2038;"	OXA-20";OXA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOXA-235;JQ820240:591-1421;OXA-235;OXA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOXA-278;KC771279:1-831;"	OXA-278";OXA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOXA-296;NG_049591:101-955;OXA-296;OXA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOXA-347;JN086160:1583-2407;OXA-347;OXA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOXA-58;AY665723:3301-4143;OXA-58;OXA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOXA-61;AY587956:123-896;OXA-609;OXA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaOXA-85;AY227054:1-765;OXA-85;OXA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaPER-2;X93314:278-1204;"	PER-2";PER beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaPME-1;HQ541434:3071-4000;PME-1;PME beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaROB-1;AF022114:303-1220;"	ROB-1";ROB beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaTEM-105;AF516720:215-1075;TEM-105;TEM beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaTEM-150;AM183304:209-1069;TEM-150;TEM beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)blaTUS-1;AF441287:261-1007;TUS-1;TUS beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)CARB-5;AF135373:12-908;CARB-16;CARB beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)CARB-8_OU;AY178993:575-1471;CARB-8;CARB beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)cepA-29;U05884:556-1458;CepA-29;CepA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)cepA-49;U05886:404-1306;CepA-49;CepA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)cfiA13;FM200787:3-752;CfiA27;CfiA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)cfxA;U38243:150-1115;CfxA2;CfxA beta-lactamasectamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)cfxA2;AF504910:1-966;CfxA2;class A beta-la CfxA beta-lactamasectamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)cfxA6;GQ342996:798-1793;CfxA6;CfxA beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)hugA;AF324468:221-2117;FO-2;FO beta-lactamase;;;antibiotic inactivation
+ARG-ANNOT;beta-lactam;(Bla)mecA1;NG_047950:20-2017;mecA;methicillin resistant PBP2;;;antibiotic target replacement
+ARG-ANNOT;beta-lactam;(Bla)mecI;NG_047956:101-472;mecI;methicillin resistant PBP2;;;antibiotic target replacement
+ARG-ANNOT;beta-lactam;(Bla)Penicillin_Binding_Protein_Ecoli;CP002291:664439-666340;PBP2;Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics;;;antibiotic target replacement
+ARG-ANNOT;broad-spectrum efflux pump;(Flq)OqxA;EU370913:46652-47827;"	oqxA";resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;broad-spectrum efflux pump;(Flq)OqxBgb;EU370913:47851-51003;oqxB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+ARG-ANNOT;fluoroquinolone;(Flq)qnr-S1;AB187515:9737-10393;QnrS1;quinolone resistance protein (qnr);;;antibiotic target protection
+ARG-ANNOT;fluoroquinolone;(Flq)qnrB44;JQ349153:1-680;"	QnrB44";quinolone resistance protein (qnr);;;antibiotic target protection
+ARG-ANNOT;fluoroquinolone;(Flq)qnrD;FJ228229:554-1198;QnrD1;quinolone resistant protein (qnr);;;antibiotic target protection
+ARG-ANNOT;folic acid synthesis inhibitors ;(Sul)sul1;AF071413:6700-7539;sul1;sulfomide resistant sul;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Sul)sul2;EU360945:1617-2432;sul2;sulfomide resistant sul;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Sul)sul3;HQ875016:7396-8187;sul3;sulfomide resistant sul;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfr16;AF077008:115-558;dfrA16;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfrA1;JQ794607:474;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfrA12;Z21672:310-807;dfrA12;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfrA14;GU726917:72-545;dfrA14;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfrA17;AB126604:98-571;dfrA17;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfrA20;AJ605332:1304-1813;dfrA20;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfrA8;U10186:711-1220;dfrA8;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfrD;Z50141:94-582;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfrF;NG_047755:101-595;dfrF;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfrG;AB205645:1013-1510;dfrG;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;folic acid synthesis inhibitors ;(Tmt)dfrK;FM207105:2788-3279;dfrK;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ARG-ANNOT;fusidic acid;(Fcd)fusD;NG_050585:101-742;"	fusD";Target protecting FusB-type protein conferring resistance to Fusidic acid;;;antibiotic target protection
+ARG-ANNOT;fusidic acid;(Fcd)fusF;NG_047903:101-745;"	FusF";Target protecting FusB-type protein conferring resistance to Fusidic acid;;;antibiotic target protection
+ARG-ANNOT;glycopeptide;(Gly)va-G;AY271782:157-606;va_in_vanG_cl;glycopeptide resistance gene cluster ;;;"	antibiotic target alteration"
+ARG-ANNOT;glycopeptide;(Gly)vanA-G;AY271782:157-606;vanA_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ARG-ANNOT;glycopeptide;(Gly)vanB;AY655710:1-1029;vanB;glycopeptide resistance gene cluster ;;;"	antibiotic target alteration"
+ARG-ANNOT;glycopeptide;(Gly)vanH-B;AF192329:27871-28842;vanH_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ARG-ANNOT;glycopeptide;(Gly)vanR-B;AY655721:69-728;vanR_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ARG-ANNOT;glycopeptide;(Gly)vanS-B;AY655721:731-2074;vanS_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ARG-ANNOT;glycopeptide;(Gly)VanU;NG_048466:101-328;vanU_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ARG-ANNOT;glycopeptide;(Gly)vanW-B;AY655721:3069-3896;vanW_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ARG-ANNOT;glycopeptide;(Gly)vanX-B;AY655721:5891-6499;vanX_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ARG-ANNOT;glycopeptide;(Gly)vanY-B;AY655721:2245-3051;vanY_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)ere(D);NG_047771:101-1327;EreD;macrolide esterase;;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)erm(35);AF319779:33-833;Erm(35);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(43);NG_047786:101-832;Erm(43);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(45);NG_047788:101-838;"	Erm(45)";Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(47);NG_054944:101-841;Erm(47);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(B);M11180:714-1451;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(C);M19652:988-1722;ErmC;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(F);M14730:241-1041;"	ErmF";Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(G);M15332:672-1406;ErmG;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(Q);L22689:262-1035;ErmQ;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(T);M64090:168-902;ErmT;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(X);M36726:296-1150;ErmX;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)erm(Y);AB014481:556-1290;ErmY;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ARG-ANNOT;MLS;(MLS)lin(A);M14039:413-898;lnuA;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)lnu((B);KC688833:1-804;lnuB;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)lnu(C);AY928180:1150-1644;lnuC;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)lnu(D);EF452177:19-513;lnuD;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)lnu(F);EU118119:1030-1851;lnuF;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)lsa(B);AJ579365:4150-5628;"	lsaB";lsa-type ABC-F protein;;;antibiotic target protection
+ARG-ANNOT;MLS;(MLS)mef(A);U70055:314-1531;mel;msr-type ABC-F protein;;;antibiotic target protection
+ARG-ANNOT;MLS;(MLS)Mef(En2);NG_047980:101-1306;Mef(En2);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;MLS;(MLS)mph(A);DQ445270:1626-2531;"	mphA";macrolide phosphotransferase (MPH);;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)mph(B);D85892:1159-2067;mphB;macrolide phosphotransferase;;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)mph(C);AF167161:5665-6564;mphC;macrolide phosphotransferase;;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)mph(E);JF769133:8777-9661;mphE;macrolide phosphotransferase;;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)mph(G);NG_047998:101-985;mphG;macrolide phosphotransferase;;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)msr(A);AY591760:274-1740;"	msrA";msr-type ABC-F protein;;;antibiotic target protection
+ARG-ANNOT;MLS;(MLS)msr(D);AF274302:2462-3925;msrD;msr-type ABC-F protein;;;antibiotic target protection
+ARG-ANNOT;MLS;(MLS)msr(E);JF769133:7246-8721;msrE;msr-type ABC-F protein;;;antibiotic target protection
+ARG-ANNOT;MLS;(MLS)sal(A);NG_048067_1-1626:1626;sal(A);sal-type ABC-F protein;;;antibiotic target protection
+ARG-ANNOT;MLS;(MLS)vat(E);AF139725:63-707;vatE;streptogramin vat acetyltransferase;;;antibiotic inactivation
+ARG-ANNOT;MLS;(MLS)vga(A)-LC;DQ823382:1-1569;vgaALC;vga-type ABC-F protein;;;antibiotic target protection
+ARG-ANNOT;MLS;(MLS)vga(E);FR772051:8741-10315;vgaE;vga-type ABC-F protein;;;antibiotic target protection
+ARG-ANNOT;nitroimidazole;(Ntmdz)NimB_Nitroimidazole_Gene;X71443:794-1288;nimB;nitroimidazole reductase;;;antibiotic inactivation
+ARG-ANNOT;nitroimidazole;(Ntmdz)nimj_Nitroimidazole_Gene;KJ816753.1:19295-19792;nimJ;nitroimidazole reductase;;;antibiotic inactivation
+ARG-ANNOT;nucleoside;(AGly)sat-2A;X51546:518-1042;SAT-2;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+ARG-ANNOT;nucleoside;(AGly)sat4A;X92945:38870-39412;SAT-4;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+ARG-ANNOT;phenicol;(Phe)cat-pC223;AY355285:1000-1647;"	Efac_ACT_CHL";chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ARG-ANNOT;phenicol;(Phe)catA1;V00622:244-903;catA1;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ARG-ANNOT;phenicol;(Phe)catA8;NC_009751:21916-22563;"	catA8";chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ARG-ANNOT;phenicol;(Phe)catA9;K01998:288-938;"	Lreu_cat-TC";chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ARG-ANNOT;phenicol;(Phe)catB11;NG_050948:101-733;catB11;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ARG-ANNOT;phenicol;(Phe)catB2;AF047479:5957-6589;catB2;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ARG-ANNOT;phenicol;(Phe)catP;U15027:2953-3576;catP;chloramphenicol acetyltransferase;;;antibiotic inactivation
+ARG-ANNOT;phenicol;(Phe)catS;X74948:1-492;"	catS";chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ARG-ANNOT;phenicol;(Phe)cmlA1;M64556:601-1860;cmlA1;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;phenicol;(Phe)cmlB1;NG_036292:776-2041;cmlB1;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;phenicol;(Phe)cmxA;AF024666:15877-17052;cmx;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;phenicol;(Phe)floR;AKLJ01000508:383-1597;floR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;phosphonic acid antibiotic;(Fcyn)FosA5;KP143090:1200-1619;fosA5;fosfomycin thiol transferase;;;antibiotic inactivation
+ARG-ANNOT;phosphonic acid antibiotic;(Fcyn)FosA6;KU254579:59422-59841;"	FosA6";fosfomycin thiol transferase;;;antibiotic inactivation
+ARG-ANNOT;phosphonic acid antibiotic;(Fcyn)FosD;AB304512:17043-17462;FosD;fosfomycin thiol transferase;;;antibiotic inactivation
+ARG-ANNOT;phosphonic acid antibiotic;(Fcyn)fosE;NG_051850:101-457;FosE;fosfomycin thiol transferase;;;antibiotic inactivation
+ARG-ANNOT;phosphonic acid antibiotic;(Fcyn)FosK;AB917040:737-1135;FosK;fosfomycin thiol transferase;;;antibiotic inactivation
+ARG-ANNOT;tetracycline;(MLS)mef(C);NG_047979:101-1324;mef(C);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic inactivation
+ARG-ANNOT;tetracycline;(Tet)tet(31);AJ250203:1651-2883;tet(31);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tet(32);DQ647324:181-2100;tet(32);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ARG-ANNOT;tetracycline;(Tet)tet(33);AJ420072:22940-24163;tet(33);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tet(36);AJ514254:2534-4456;tet(36);tetracycline-resistant ribosomal protection protein;;;antibiotic target alteration
+ARG-ANNOT;tetracycline;(Tet)tet(39);AY743590:749-1936;tet(39);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tet(40);AM419751:14211-15431;tet(40);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tet(44);FN594949:25245-27167;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ARG-ANNOT;tetracycline;(Tet)Tet(57);NG_056039:1-1197;tet(57);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tet(H);NG_048195:101-1303;tet(H);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetA;JX424423:94438-95712;tet(A);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetA-P;L20800:1063-2325;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetB;AB089594:1-1206;tet(B);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetB-P;L20800:2309-4267;tetB(P);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ARG-ANNOT;tetracycline;(Tet)tetC;EU751612:1-1191;"	tet(C)";major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetE;DQ366299:36-1253;tetE;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetG;AF133140:757-1932;tet(G);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetK;M16217:305-1684;tet(K);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetL;FN435329:1-1377;tet(L);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetM;DQ534550:1451-3370;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ARG-ANNOT;tetracycline;(Tet)tetO;M18896:207-2126;tet(O/M/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ARG-ANNOT;tetracycline;(Tet)tetQ;Z21523:362-2287;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ARG-ANNOT;tetracycline;(Tet)tetR;HF545434:53576-54226;tetR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetR(G);S52438:113-745;tetR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ARG-ANNOT;tetracycline;(Tet)tetS;L09756:447-2372;tet(S);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ARG-ANNOT;tetracycline;(Tet)tetT;L42544:478-2433;tet(T);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ARG-ANNOT;tetracycline;(Tet)tetW;AJ222769:3687-5606;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ARG-ANNOT;tetracycline;(Tet)tetX;M37699:586-1752;tet(X);tetracycline inactivation enzyme;;;antibiotic inactivation
+ARG-ANNOT;tetracycline;(Tet)tetY;AF070999:1680-2855;tet(Y);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic inactivation
+ARG-ANNOT;tetracycline;(Tet)tetZ;AF121000:11880-13034;tet(Z);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;aminocoumarin;mdtB;U00096.1:2155262-2158385;mdtB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+CARD;aminocoumarin;mdtC;U00096.1:2158385-2161463;mdtC;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+CARD;aminoglycoside;AAC(3)-IIa;X13543.1:185-1046;AAC(3)-Iia;AAC(3);;;antibiotic inactivation
+CARD;aminoglycoside;AAC(3)-IIe;EU022315.1:0-861;AAC(3)-Iie;AAC(3);;;antibiotic inactivation
+CARD;aminoglycoside;AAC(3)-IVa;DQ241380.1:0-777;AAC(3)-Iva;AAC(3);;;antibiotic inactivation
+CARD;aminoglycoside;AAC(6')-Iad;AB119105.1:0-435;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
+CARD;aminoglycoside;AAC(6')-Ib4;AF445082.1:2788-3343;AAC(6')-Ib4;AAC(6');;;antibiotic inactivation
+CARD;aminoglycoside;AAC(6')-Ie-APH(2'')-Ia_bifunctiol_protein;GU565967.1:26419-24979;AAC6_Ie_APH2_Ia;aminoglycoside bifunctional resistance protein;;;antibiotic inactivation
+CARD;aminoglycoside;AAC(6')-Ie-APH(2'')-Ia_bifunctional_protein;GU565967.1:26419-24979;AAC6_Ie_APH2_Ia;aminoglycoside bifunctional resistance protein;;;antibiotic inactivation
+CARD;aminoglycoside;AAC(6')-Iid;AJ584700.2:33-582;AAC(6')-Iid;AAC(6');;;antibiotic inactivation
+CARD;aminoglycoside;AAC(6')-Im;AF337947.1:1214-1751;AAC(6')-Im;AAC(6');;;antibiotic inactivation
+CARD;aminoglycoside;aad(6);AY712687.1:0-831;aad(6);ANT(6);;;antibiotic inactivation
+CARD;aminoglycoside;aadA;AF550679.1:81768-80976;aadA;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;aadA11;AY758206.1:2743-3589;aadA11;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;aadA13;EU746499.1:639-1437;aadA13;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;aadA14;AJ884726.1:1325-539;aadA14;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;aadA2;AF156486.1:5012-5792;aadA2;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;aadA22;AM261837.1:73-865;aadA22;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;aadA27;LN873256.1:4027-3238;aadA27;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;aadA5;AF137361.1:63-852;aadA5;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;aadA7;AB114632.1:655-1453;aadA7;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;aadA9;DQ390458.1:3995-3095;aadA9;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;aadS;M72415.1:1120-1984;aadS;ANT(6);;;antibiotic inactivation
+CARD;aminoglycoside;ANT(2'')-Ia;AF078527.1:3769-4303;ANT(2'')-Ia;ANT(2'');;;antibiotic inactivation
+CARD;aminoglycoside;ANT(3'')-IIa;GG704579.1:35369-34580;ANT(3'')-IIa;ANT(3'');;;antibiotic inactivation
+CARD;aminoglycoside;ANT(4')-Ia;K02551.1:240-1002;ANT(4')-Ia;ANT(4');;;antibiotic inactivation
+CARD;aminoglycoside;ANT(6)-Ia;KF648874.1:61860-60996;ANT(6)-Ia;ANT(6);;;antibiotic inactivation
+CARD;aminoglycoside;ANT(6)-Ib;FN594949.1:27481-28339;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
+CARD;aminoglycoside;ANT(9)-Ia;X02588.1:330-1113;ANT(9)-Ia;ANT(9);;;antibiotic inactivation
+CARD;aminoglycoside;ANT(9)-Ib;M69221.1:270-1038;ANT(9)-Ib;ANT(9);;;antibiotic inactivation
+CARD;aminoglycoside;APH(2'')-If;AY701528.1:9695-10589;APH(2'')-If;"APH(2"")";;;antibiotic inactivation
+CARD;aminoglycoside;APH(2'')-IIIa;U51479.1:0-921;APH(2'')-IIIa;APH(2'');;;antibiotic inactivation
+CARD;aminoglycoside;APH(3'')-Ib;AF313472.2:15593-16397;APH(3'')-Ib;APH(3'');;;antibiotic inactivation
+CARD;aminoglycoside;APH(3')-Ia;BX664015.1:103833-103017;APH(3')-Ia;APH(3');;;antibiotic inactivation
+CARD;aminoglycoside;APH(3')-IIa;V00618.1:150-945;APH(3')-IIa;APH(3');;;antibiotic inactivation
+CARD;aminoglycoside;APH(3')-IIIa;CP004067.1:52914-53709;APH(3')-IIIa;APH(3');;;antibiotic inactivation
+CARD;aminoglycoside;APH(3')-IXa;APPN01000061.1:80497-81298;APH(3')-IXa;APH(3');;;antibiotic inactivation
+CARD;aminoglycoside;APH(3')-VIa;X07753.1:102-882;APH(3')-Via;APH(3');;;antibiotic inactivation
+CARD;aminoglycoside;APH(4)-Ia;V01499.1:230-1256;APH(4)-Ia;APH(4);;;antibiotic inactivation
+CARD;aminoglycoside;APH(6)-Id;AF024602.1:3155-3992;APH(6)-Id;APH(6);;;antibiotic inactivation
+CARD;aminoglycoside;kdpE;U00096.3:721733-721055;kdpE;kdpDE;;;antibiotic efflux
+CARD;aminoglycoside;mdtA;U00096.1:2154015-2155263;mdtA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+CARD;aminoglycoside;rmtF;JQ808129.1:1598-2378;rmtF;16S rRNA methyltransferase (G1405);;;antibiotic target alteration
+CARD;beta-lactam;ACI-1;AJ007350.1:239-1094;ACI-1;ACI beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;ARL-1;KY363215.1:79488-80337;ARL-1;ARL Beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;CARB-16;HF953351.1:3358-2461;CARB-16;CARB beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;CARB-5;AF135373.1:11-908;"	CARB-5";CARB beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;CARB-8;AY178993.1:574-1471;CARB-8;CARB beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;CBP-1;KP718480.1:0-927;CBP-1;CBP beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;CepA-29;NG_050385.1:100-1003;CepA-29;CepA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;CepA-49;NG_050387.1:100-1003;CepA-49;CepA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;CfiA27;NG_071228.1:0-750;CfiA27;CfiA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;CfxA;U38243.1:149-1115;"	CfxA";CfxA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;CfxA2;AF118110.1:1037-71;CfxA2;"class A beta-la	CfxA beta-lactamasectamase";;;antibiotic inactivation
+CARD;beta-lactam;CfxA6;GQ342996.1:797-1793;CfxA6;CfxA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;EBR-2;KR131616.1:0-708;EBR-2;EBR beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;EBR-3;NG_066507.1:0-708;EBR-3;EBR beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;EBR-4;NG_073461.1:0-708;EBR-4;EBR beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;EBR-5;CP104209.1:787487-786782;EBR-5;EBR beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;EC-13;NG_049079.1:100-1234;EC-13;EC beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;EC-15;NG_049081.1:100-1234;EC-15;EC beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;EC-18;NG_049083.1:100-1234;EC-18;EC beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;EC-8;NG_049086.1:100-1234;EC-8;EC beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;Escherichia_coli_ampC_beta-lactamase;U00096.3:4378944-4377810;Ecol_ampC_BLA;ampC-type beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;GIL-1;NG_049142.1:100-961;GIL-1;GIL beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;IMP-13;AJ550807.1:2242-2983;IMP-13;IMP beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;Klebsiella_pneumoniae_OmpK37;AJ011502.1:300-1425;"	Kpne_OmpK37";General Bacterial Porin with reduced permeability to beta-lactams;;;"	reduced permeability to antibiotic"
+CARD;beta-lactam;mecC-type_BlaZ;FR823292.1:1647-795;mecC-type_BlaZ;BlaZ beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;mecI;BA000018.3:48893-49265;mecI;methicillin resistant PBP2;;;antibiotic target replacement
+CARD;beta-lactam;MOX-25;LC733695.1:0-1152;MOX-25;MOX beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;MOX-9;KJ746495.1:1420-2572;MOX-9;MOX beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;MUS-1;AF441286.1:224-965;MUS-1;MUS beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;MUS-2;KP658209.1:0-741;MUS-2;MUS beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OCH-7;AJ295345.1:0-1173;OCH-7;OCH beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-1;JN420336.1:2230-1399;"	OXA-1";OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-1005;MZ265758.1:0-831;OXA-1005;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-1041;OK576522.1:0-795;OXA-1041;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-1156;LC732550.1:0-795;OXA-1156;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-1160;LC733698.1:0-795;OXA-1160;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-1258;CP121303.1:2453187-2452347;OXA-1258;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-1259;JAXHPQ010000007.1:11318-10478;OXA-1259;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-1260;JAXHPO010000090.1:1649-809;OXA-1260;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-1263;JAXHPD010000006.1:108551-109391;OXA-1263;VIM beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-2;X07260.1:700-1528;OXA-2;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-20;CP000863.1:251961-252762;OXA-20;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-296;APOH01000009.1:221443-220588;OXA-296;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-299;APQD01000016.1:31095-31929;OXA-299;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-347;JN086160.1:2407-1582;OXA-347;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-362;KF460532.1:0-831;OXA-362;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-363;KF460533.1:0-831;OXA-363;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-58;CP000864.1:13383-14226;OXA-58;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-609;NG_057518.1:0-774;OXA-609;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-646;NG_065432.1:0-840;OXA-646;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-648;NG_065434.1:0-840;OXA-648;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-85;AY227054.1:0-765;OXA-85;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-917;NG_070181.1:0-795;OXA-917;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-981;MZ265733.1:0-840;OXA-981;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;OXA-999;MZ265751.1:0-840;OXA-999;OXA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;PER-2;X93314.1:0-927;PER-2;PER beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;PME-1;NG_049973.1:100-1030;PME-1;PME beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;RATA-1;CP121209.1:1982452-1983367;RATA-1;RATA beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;ROB-1;X52872.1:220-1138;ROB-1;ROB beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;ROB-12;MW735842.1:0-933;ROB-12;ROB beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;TEM-1;AL513383.1:161910-162771;TEM-1;TEM beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;TEM-150;AM183304.1:208-1069;TEM-150;TEM beta-lactamase;;;antibiotic inactivation
+CARD;beta-lactam;TUS-1;AF441287.1:260-1007;TUS-1;TUS beta-lactamase;;;antibiotic inactivation
+CARD;broad-spectrum efflux pump;aadT;KT852971.1:29104-30619;aadT;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;acrB;U00096.3:484403-481253;acrB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;acrD;AP009048.1:2586250-2589364;acrD;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+CARD;broad-spectrum efflux pump;AcrE;U00096.1:3413863-3415021;AcrE;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;AcrF;U00096.1:3415032-3418137;AcrF;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;AcrS;U00096.1:3413465-3412802;AcrS;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;cpxA;BA000007.3:4905062-4903688;cpxA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;CRP;AP009048.1:4154296-4153663;CRP;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;Escherichia_coli_acrA;U00096.3:485619-484425;Ecol_acrA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;Escherichia_coli_mdfA;JQ394987.1:0-1233;Ecol_mdfA;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;evgA;BA000007.3:3212025-3212640;evgA;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;evgS;U00096.1:2484373-2487967;evgS;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;gadW;CP015085.1:2552440-2551711;gadW;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;gadX;AP009048.1:3974604-3975429;gadX;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;H-NS;BA000007.3:1738104-1737690;H-NS;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;Klebsiella_pneumoniae_KpnE;AP006725.1:2483889-2484252;Kpne_KpnE;small multidrug resistance (SMR) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;Klebsiella_pneumoniae_KpnF;AP006725.1:2484238-2484568;Kpne_KpnF;small multidrug resistance (SMR) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;Klebsiella_pneumoniae_KpnH;ASTU01000063.1:61248-62787;"	Kpne_KpnH";major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;marA;AP009048.1:1621287-1621671;marA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;mdtE;AP009048.1:3981183-3980025;mdtE;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;mdtF;U00096.1:3660413-3663527;mdtF;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;mdtM;U00096.3:4568519-4567286;mdtM;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;mef(C);AB571865.1:145536-144312;mef(C);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;oqxA;EU370913.1:46651-47827;oqxA;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;oqxB;EU370913.1:47850-51003;oqxB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;Pseudomonas_aeruginosa_CpxR;LT673656.1:1885022-1884344;Paer_CpxR;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;Pseudomos_aeruginosa_CpxR;LT673656.1:1885022-1884344;Paer_CpxR;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;qacEdelta1;U49101.1:1490-1838;qacEdelta1;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;qacG;NG_051904.1:100-424;qacG;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;qacH;Y16945.1:1861-2185;qacH;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;qacJ;AJ512814.1:1427-1751;qacJ;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;qacL;DQ149925.1:188-521;qacL;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;ramA;JQ727668.1:0-375;ramA;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;rsmA;AF061757.1:834-1020;rsmA;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;smeD;AJ252200.1:81-1266;smeD;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;smeE;AJ252200.1:1278-4401;smeE;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+CARD;broad-spectrum efflux pump;TolC;FJ768952.1:0-1488;TolC;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;broad-spectrum efflux pump;YajC;VAOQ01003483.1:0-339;YajC;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+CARD;fluoroquinolone;emrA;AP009048.1:2810082-2811255;emrA;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;fluoroquinolone;emrB;U00096.1:2812615-2814154;emrB;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;fluoroquinolone;emrR;U00096.3:2810769-2811300;emrR;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;fluoroquinolone;mdtH;U00096.1:1125326-1124117;mdtH;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;fluoroquinolone;QnrB6;EF520349.1:0-681;QnrB6;quinolone resistant protein (qnr);;;antibiotic target protection
+CARD;fluoroquinolone;QnrD1;FJ228229.1:553-1198;QnrD1;quinolone resistant protein (qnr);;;antibiotic target protection
+CARD;fluoroquinolone;QnrS1;DQ485529.1:0-657;QnrS1;quinolone resistance protein (qnr);;;antibiotic target protection
+CARD;folic acid synthesis inhibitors ;dfrA1;KJ541681.1:19526-20000;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;dfrA12;GU585907.1:22103-21605;dfrA12;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;dfrA14;KF921535.1:617-1091;dfrA14;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;dfrA16;AF174129.3:1351-1825;dfrA16;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;dfrA17;DQ838665.1:0-474;dfrA17;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;dfrA20;AJ605332.1:1303-1813;dfrA20;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;DfrA36;NG_065842.1:100-688;dfrA37;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;dfrA8;KJ174469.1:710-1220;dfrA8;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target alteration
+CARD;folic acid synthesis inhibitors ;dfrD;U43152.1:93-582;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;dfrF;AF028812.1:392-887;dfrF;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;dfrG;AB205645.1:1012-1510;dfrG;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;dfrK;FN812951.1:0-492;dfrK;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;dfrL;CAIIKR010000012.1:2869-3451;dfrL;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;RbpA;HQ203032.1:0-345;RbpA;RbpA bacterial RNA polymerase-binding protein;;;antibiotic target protection
+CARD;folic acid synthesis inhibitors ;rpoB2;AP006618.1:4835199-4838688;rpoB2;rifamycin-resistant beta-subunit of RNA polymerase (rpoB);;;antibiotic target alteration
+CARD;folic acid synthesis inhibitors ;sul1;JF969163.1:1053-1893;sul1;sulfomide resistant sul;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;sul2;AY055428.1:21084-20268;sul2;sulfomide resistant sul;;;antibiotic target replacement
+CARD;folic acid synthesis inhibitors ;sul3;FJ196385.1:9323-8531;sul3;sulfomide resistant sul;;;antibiotic target replacement
+CARD;fusidic acid;fusD;CP022056.2:166813-167455;fusD;Target protecting FusB-type protein conferring resistance to Fusidic acid;;;antibiotic target protection
+CARD;fusidic acid;FusF;CP027422.1:410229-410874;FusF;Target protecting FusB-type protein conferring resistance to Fusidic acid;;;antibiotic target protection
+CARD;glycopeptide;vanB;KF823969.1:5110-6139;vanB;glycopeptide resistance gene cluster ;;;"	antibiotic target alteration"
+CARD;glycopeptide;vanG;DQ212986.1:5984-7034;vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanH_gene_in_vanB_cluster;U35369.1:4006-4978;vanH_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanP;JAINTN010000010.1:17901-16872;vanP;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanR_gene_in_vanB_cluster;U35369.1:177-840;vanR_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanR_gene_in_vanG_cluster;DQ212986.1:2258-2966;vanR_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanR_gene_in_vanO_cluster;KF478993.1:6704-6002;vanR_in_vanO_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanS_gene_in_vanB_cluster;U35369.1:839-2183;vanS_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanS_gene_in_vanG_cluster;DQ212986.1:2979-4086;vanS_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanT_gene_in_vanG_cluster;DQ212986.1:7787-9926;vanT_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanU_gene_in_vanG_cluster;DQ212986.1:2029-2257;vanU_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanW_gene_in_vanB_cluster;U35369.1:3182-4010;vanW_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanW_gene_in_vanG_cluster;DQ212986.1:5137-5983;vanW_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanX_gene_in_vanB_cluster;U35369.1:6004-6613;vanX_gene_in_vanB_cluster;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanX_gene_in_vanP_cluster;JAINTN010000010.1:16763-16154;"	vanX_in_vanP_cl";glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanXY_gene_in_vanG_cluster;DQ212986.1:7030-7795;vanXY_in_vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanY_gene_in_vanB_cluster;U35369.1:2358-3165;vanY_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;glycopeptide;vanY_gene_in_vanG_cluster;DQ212986.1:4222-5062;vanY_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+CARD;MLS;Bifidobacterium_adolescentis_rpoB_mutants_conferring_resistance_to_rifampicin;NC_008618.1:1670624-1667063;ado_rpoB_RIF;rifamycin-resistant beta-subunit of R polymerase (rpoB);;;antibiotic target alteration
+CARD;MLS;cfrE;QUDP01000003.1:17069-16034;cfrE;Cfr 23S ribosomal R methyltransferase;;;antibiotic target alteration
+CARD;MLS;Clostridium_perfringes_cplR;BA000016.3:968935-967228;Cper_cplR;Miscellaneous ABC-F subfamily ATP-binding cassette ribosomal protection proteins;;;antibiotic target protection
+CARD;MLS;EreD;KP265721.1:331-1558;EreD;macrolide esterase;;;antibiotic inactivation
+CARD;MLS;Erm(35);AF319779.2:32-833;Erm(35);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;Erm(43);HE650138.1:2186-2918;Erm(43);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;erm(45);LN680996.1:12073-12811;Erm(45);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;Erm(47);KU612222.1:80337-81078;Erm(47);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+CARD;MLS;Erm(49);MWVR01000009.1:35299-34384;Erm(49);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;Erm(51);MN928789.1:0-792;Erm(51);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;Erm(52);MW269959.1:0-930;Erm(52);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+CARD;MLS;erm(56);OQ326498.1:486-1287;Erm(56);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;ErmB;AF242872.1:2131-2878;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+CARD;MLS;ErmC;M12730.1:779-1514;ErmC;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;ErmF;M17124.1:1181-1982;ErmF;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;ErmG;L42817.1:201-936;ErmG;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;ErmQ;L22689.1:261-1035;ErmQ;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+CARD;MLS;ErmT;M64090.1:0-735;ErmT;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+CARD;MLS;ErmX;M36726.1:295-1150;ErmX;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;ErmY;AB014481.1:0-735;ErmY;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+CARD;MLS;Escherichia_coli_emrE;Z11877.1:485-818;Ecol_emrE;small multidrug resistance (SMR) antibiotic efflux pump;;;antibiotic efflux
+CARD;MLS;EstT;CP094932.1:14993-15914;EstT;macrolide esterase;;;antibiotic inactivation
+CARD;MLS;lnuA;M14039.1:412-898;lnuA;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+CARD;MLS;lnuB;AJ238249.1:126-930;lnuB;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+CARD;MLS;lnuC;AY928180.1:0-495;lnuC;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+CARD;MLS;lnuD;EF452177.1:0-495;lnuD;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+CARD;MLS;lnuF;AJ561197.2:1320-2142;lnuF;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+CARD;MLS;lnuG;KX470419.1:3811-4615;lnuG;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+CARD;MLS;LnuH;NC_020125.1:1862223-1861440;LnuH;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+CARD;MLS;LnuP;FJ589781.1:1302-1803;lnuP;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+CARD;MLS;lsaB;AJ579365.1:4149-5628;lsaB;lsa-type ABC-F protein;;;antibiotic target alteration
+CARD;MLS;lsaE;AF408195.1:7908-9393;lsaE;lsa-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;Mef(En2);AF251288.1:2000-794;Mef(En2);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;MLS;mef(F);CP046364.1:31811-33005;mef(F);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;MLS;mel;AF227521.1:3269-4487;mel;msr-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;mphA;D16251.1:2531-1625;mphA;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+CARD;MLS;mphB;D85892.1:1158-2067;mphB;macrolide phosphotransferase;;;antibiotic inactivation
+CARD;MLS;mphC;AB013298.1:2295-3195;mphC;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+CARD;MLS;mphE;DQ839391.1:13757-12872;mphE;macrolide phosphotransferase;;;antibiotic inactivation
+CARD;MLS;mphG;AB571865.1:144308-143423;mphG;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+CARD;MLS;mphO;NZ_AGSO01000004.1:76478-77432;mphO;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+CARD;MLS;Mrx;AY522923.1:8983-7744;Mrx;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+CARD;MLS;msr(G);CP046364.1:33122-34580;msr(G);msr-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;msrA;X52085.1:342-1809;msrA;msr-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;msrE;EU294228.1:21241-22717;msrE;msr-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;salA;KC693025.1:0-1626;salA;sal-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;salB;JAHWBZ010000013.1:189242-187616;salB;sal-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;salC;JAAQPD010000007.1:117418-115792;salC;sal-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;vatE;AF242872.1:3579-4224;vatE;streptogramin vat acetyltransferase;;;antibiotic inactivation
+CARD;MLS;vga(E)_Staphylococcus_cohnii;KF540226.1:5144-3569;Scoh_vga(E);vga-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;vgaALC;DQ823382.1:0-1569;vgaALC;vga-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;vgaC;FN806792.1:100-1669;vgaC;vga-type ABC-F protein;;;antibiotic target protection
+CARD;MLS;vgaE;FR772051.1:8740-10315;vgaE;vga-type ABC-F protein;;;antibiotic target protection
+CARD;mupirocin;Bifidobacterium_bifidum_ileS_conferring_resistance_to_mupirocin;CP001840.1:1613960-1610636;ileS;antibiotic-resistant isoleucyl-tR synthetase;;;antibiotic efflux
+CARD;nitroimidazole;msbA;U00096.3:966620-968369;msbA;ATP-binding cassette (ABC) antibiotic efflux pump;;;antibiotic efflux
+CARD;nitroimidazole;nimB;X71443.1:793-1288;nimB;nitroimidazole reductase;;;antibiotic inactivation
+CARD;nitroimidazole;nimH;FJ969397.1:2-455;nimH;nitroimidazole reductase;;;antibiotic inactivation
+CARD;nitroimidazole;nimJ;KJ816753.1:19792-19294;nimJ;nitroimidazole reductase;;;antibiotic inactivation
+CARD;nucleoside;leuO;LR730402.1:740042-740987;leuO;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;nucleoside;mdtN;AP009048.1:4307588-4306556;mdtN;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;nucleoside;mdtO;AP009048.1:4306557-4304505;mdtO;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;nucleoside;mdtP;AP009048.1:4304509-4303042;mdtP;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;nucleoside;SAT-2;AB211124.1:0-525;SAT-2;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+CARD;nucleoside;SAT-4;U01945.1:373-916;SAT-4;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+CARD;peptide;ArnT;FO834906.1:304977-306633;ArnT;pmr phosphoethanolamine transferase;;;antibiotic target alteration
+CARD;peptide;bacA;U00096.3:3204131-3203309;bacA;undecaprenyl pyrophosphate related proteins;;;antibiotic target alteration
+CARD;peptide;Clostridium_perfringens_mprF;CP000312.1:1757774-1756064;Cper_mprF;defensin resistant mprF;;;antibiotic target alteration
+CARD;peptide;eptA;AP009048.1:4340268-4338624;eptA;pmr phosphoethanolamine transferase;;;antibiotic target alteration
+CARD;peptide;OmpA;FO834906.1:2175099-2173974;OmpA;General Bacterial Porin with reduced permeability to peptide antibiotics;;;reduced permeability to antibiotic
+CARD;peptide;PmrF;U00096.1:2367070-2368039;PmrF;pmr phosphoethanolamine transferase;;;antibiotic target alteration
+CARD;peptide;ugd;U00096.1:2099613-2098446;ugd;pmr phosphoethanolamine transferase;;;antibiotic target alteration
+CARD;peptide;YojI;U00096.3:2308615-2306971;YojI;ATP-binding cassette (ABC) antibiotic efflux pump;;;antibiotic efflux
+CARD;phenicol;catA1;V00622.1:243-903;catA1;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+CARD;phenicol;catA8;JQ922409.1:92-740;"	catA8";chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+CARD;phenicol;catB11;CP008790.1:144510-145143;catB11;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+CARD;phenicol;catB2;AY232670.1:4157-3524;catB2;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+CARD;phenicol;catP;U15027.1:0-624;catP;chloramphenicol acetyltransferase;;;antibiotic inactivation
+CARD;phenicol;catS;X74948.1:0-492;"	catS";chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+CARD;phenicol;cmlA1;M64556.1:600-1860;cmlA1;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;phenicol;cmlA9;AY963803.6:24823-26038;cmlA9;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;phenicol;cmlB1;AM296481.1:775-2041;cmlB1;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;phenicol;cmx;AF024666.2:35934-37110;cmx;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;phenicol;Enterococcus_faecium_chloramphenicol_acetyltransferase;AF507977.1:17463-18111;Efac_ACT_CHL;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+CARD;phenicol;floR;AF231986.2:3307-4522;floR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;phenicol;Limosilactobacillus_reuteri_cat-TC;U75299.1:0-717;Lreu_cat-TC;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+CARD;phosphonic acid antibiotic;Chlamydia_trachomatis_intrinsic_murA_conferring_resistance_to_fosfomycin;AY152390.1:0-1335;Chlamydia_trachomatis_intrinsic_murA_conferring_resistance_to_fosfomycin;antibiotic-resistant murA transferase;;;antibiotic target alteration
+CARD;phosphonic acid antibiotic;fosA5;KP143090.1:1619-1199;fosA5;fosfomycin thiol transferase;;;antibiotic inactivation
+CARD;phosphonic acid antibiotic;FosA6;KU254579.1:59421-59841;FosA6;fosfomycin thiol transferase;;;antibiotic inactivation
+CARD;phosphonic acid antibiotic;FosD;AB304512.1:17042-17462;FosD;fosfomycin thiol transferase;;;antibiotic inactivation
+CARD;phosphonic acid antibiotic;FosK;AB917040.2:736-1135;FosK;fosfomycin thiol transferase;;;antibiotic inactivation
+CARD;phosphonic acid antibiotic;FosY;MN961674.1:0-423;FosY;fosfomycin thiol transferase;;;antibiotic inactivation
+CARD;phosphonic acid antibiotic;mdtG;CP000800.1:1192954-1191727;mdtG;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;tetracycline;emrK;D78168.1:536-1592;emrK;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;tetracycline;emrY;D78168.1:1591-3130;emrY;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+CARD;tetracycline;tet(31);AJ250203.1:1650-2883;tet(31);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(32);EU722333.1:1932-3852;tet(32);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(33);AJ420072.1:22939-24163;tet(33);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(36);AJ514254.1:0-1923;tet(36);tetracycline-resistant ribosomal protection protein;;;antibiotic target alteration
+CARD;tetracycline;tet(39);AY743590.1:0-1188;tet(39);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(40);AM419751.1:14210-15431;tet(40);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(44);FN594949.1:25244-27167;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(57);KP137702.1:0-1197;tet(57);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(65);CP123906.1:35320-34168;tet(65);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(A);AF534183.1:2970-4245;tet(A);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(B);AB089595.1:0-1206;tet(B);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(C);AY043299.1:5175-3984;tet(C);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(E);L06940.1:0-1218;tet(E);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(G);AF133139.1:0-1176;tet(G);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(H);Y15510.1:0-1203;tet(H);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(K);S67449.1:0-1380;tet(K);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(L);M11036.1:0-1377;tet(L);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tet(M);AB039845.1:25-1945;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(O);M18896.2:206-2126;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(O/M/O);AY394560.1:0-1920;tet(O/M/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(Q);Z21523.1:0-1974;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(S);L09756.1:0-1926;tet(S);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(T);L42544.1:0-1956;tet(T);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(W);AJ222769.3:3686-5606;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(W/32/O);AY049983.2:8308-10228;tet(W/32/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(W/N/W);KU736867.1:19653-21573;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+CARD;tetracycline;tet(X);M37699.1:585-1752;tet(X);tetracycline inactivation enzyme;;;antibiotic inactivation
+CARD;tetracycline;tet(X5);NZ_CP040912.1:84797-85964;tet(x5);tetracycline inactivation enzyme;;;antibiotic inactivation
+CARD;tetracycline;tet(X6);MN507533.1:36121-37258;tetX6;tetracycline inactivation enzyme;;;antibiotic inactivation
+CARD;tetracycline;tet(Y);AF070999.1:1679-2855;tet(Y);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic inactivation
+CARD;tetracycline;tet(Z);AF121000.1:13034-11879;tet(Z);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tetA(P);L20800.1:1062-2325;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+CARD;tetracycline;tetB(P);L20800.1:2308-4267;tetB(P);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;aminocoumarin;MDTA;MEG_3746;mdtA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+MEGARes;aminocoumarin;MDTB;MEG_3747;mdtB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+MEGARes;aminocoumarin;MDTC;MEG_3749;mdtC;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+MEGARes;aminoglycoside;AAC3;MEG_60;AAC(3)-Iia;AAC(3);;;antibiotic inactivation
+MEGARes;aminoglycoside;AAC3;MEG_44;AAC(3)-Iie;AAC(3);;;antibiotic inactivation
+MEGARes;aminoglycoside;AAC3;MEG_32;AAC(3)-Iva;AAC(3);;;antibiotic inactivation
+MEGARes;aminoglycoside;AAC6-PRIME;MEG_364;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
+MEGARes;aminoglycoside;AAC6-PRIME;MEG_279;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
+MEGARes;aminoglycoside;AAC6-PRIME;MEG_171;AAC(6')-Iid;AAC(6');;;antibiotic inactivation
+MEGARes;aminoglycoside;AAC6-PRIME;MEG_303;AAC(6')-Iid;AAC(6');;;antibiotic inactivation
+MEGARes;aminoglycoside;AAC6-PRIME;MEG_368;AAC(6')-Im;AAC(6');;;antibiotic inactivation
+MEGARes;aminoglycoside;AAC6-PRIME;MEG_316;AAC6_Ie_APH2_Ia;aminoglycoside bifunctional resistance protein;;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT2-DPRIME;MEG_753;ANT(2'')-Ia;ANT(2'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_915;aadA;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_881;aadA;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_975;aadA;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_939;aadA11;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_816;aadA11;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_783;aadA11;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_882;aadA11;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_945;aadA13;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_851;aadA13;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_870;aadA14;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_952;aadA2;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_919;aadA22;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_948;aadA27;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_901;aadA5;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_823;aadA7;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_941;aadA9;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_766;aadA9;ANT(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT3-DPRIME;MEG_925;ANT(9)-Ia;APH(9);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT4-PRIME;MEG_978;ANT(4')-Ia;ANT(4');;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT6;MEG_987;aad(6);ANT(6);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT6;MEG_994;aad(6);ANT(6);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT6;MEG_995;aadK;ANT(6);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT6;MEG_1001;aadK;ANT(6);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT6;MEG_998;aadS;ANT(6);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT6;MEG_1000;ANT(6)-Ia;ANT(6);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT6;MEG_988;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT6;MEG_997;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT9;MEG_1003;ANT(9)-Ia;APH(9);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT9;MEG_1004;ANT(9)-Ia;APH(9);;;antibiotic inactivation
+MEGARes;aminoglycoside;ANT9;MEG_1005;ANT(9)-Ib;ANT(9);;;antibiotic inactivation
+MEGARes;aminoglycoside;APH2-DPRIME;MEG_1010;APH(2'')-If;"APH(2"")";;;antibiotic inactivation
+MEGARes;aminoglycoside;APH2-DPRIME;MEG_1017;APH(2'')-IIIa;APH(2'');;;antibiotic inactivation
+MEGARes;aminoglycoside;APH2-DPRIME;MEG_1016;APH(3')-Ia;APH(3');;;antibiotic inactivation
+MEGARes;aminoglycoside;APH3-DPRIME;MEG_1019;APH(3'')-Ib;APH(3'');;;antibiotic inactivation
+MEGARes;aminoglycoside;APH3-DPRIME;MEG_1029;APH(3')-Ia;APH(3');;;antibiotic inactivation
+MEGARes;aminoglycoside;APH3-DPRIME;MEG_1044;APH(3')-Ia;APH(3');;;antibiotic inactivation
+MEGARes;aminoglycoside;APH3-DPRIME;MEG_1050;APH(3')-IIa;APH(3');;;antibiotic inactivation
+MEGARes;aminoglycoside;APH3-DPRIME;MEG_1047;APH(3')-IXa;APH(3');;;antibiotic inactivation
+MEGARes;aminoglycoside;APH3-PRIME;MEG_1075;APH(3')-Via;APH(3');;;antibiotic inactivation
+MEGARes;aminoglycoside;APH3-PRIME;MEG_1060;APH(9)-Ia;APH(9);;;antibiotic inactivation
+MEGARes;aminoglycoside;APH4;MEG_1082;APH(4)-Ia;APH(4);;;antibiotic inactivation
+MEGARes;aminoglycoside;APH6;MEG_1085;APH(6)-Id;APH(6);;;antibiotic inactivation
+MEGARes;aminoglycoside;APH6;MEG_1086;APH(6)-Id;APH(6);;;antibiotic inactivation
+MEGARes;aminoglycoside;KDPE;MEG_3448;kdpE;kdpDE;;;antibiotic efflux
+MEGARes;aminoglycoside;RMTF;MEG_6071;rmtF;16S rRNA methyltransferase (G1405);;;antibiotic target alteration
+MEGARes;beta-lactam;ACI;MEG_395;ACI-1;ACI beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;ACT;MEG_497;OXA-203;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;AMPC;MEG_728;Ecol_ampC_BLA;ampC-type beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;AMPH;MEG_729;ampH;Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics;;;antibiotic inactivation
+MEGARes;beta-lactam;ARL;MEG_1112;ARL-1;ARL Beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;BLAEC;MEG_1282;EC-15;EC beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;BLAEC;MEG_1279;EC-18;EC beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;BLAEC;MEG_1278;EC-8;EC beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;BLAEC;MEG_1284;EC-8;EC beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;BLAEC;MEG_1276;Ecol_ampC_BLA;ampC-type beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;BLAZ;MEG_1322;mecC-type_BlaZ;BlaZ beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CARB;MEG_1541;CARB-16;CARB beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CARB;MEG_1545;CARB-8;CARB beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CBP;MEG_1638;CBP-1;CBP beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CEPA;MEG_1645;CepA-29;CepA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CEPA;MEG_1651;CepA-49;CepA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CFIA;MEG_1678;CfiA27;CfiA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CFX;MEG_1696;"	CfxA";CfxA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CFX;MEG_1698;CfxA2;"class A beta-la	CfxA beta-lactamasectamase";;;antibiotic inactivation
+MEGARes;beta-lactam;CFX;MEG_1691;CfxA2;"class A beta-la	CfxA beta-lactamasectamase";;;antibiotic inactivation
+MEGARes;beta-lactam;CFX;MEG_1695;CfxA6;CfxA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CFX;MEG_1686;CfxA6;CfxA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CTX;MEG_2435;CTX;CTX-M beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CTX;MEG_2378;CTX-M-17;CTX-M beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;CTX;MEG_2430;CTX-M-54;CTX-M beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;EBR;MEG_8075;EBR-3;EBR beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;EBR;MEG_8076;EBR-4;EBR beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;EBR;MEG_2696;EBR-5;EBR beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;GIL;MEG_3136;GIL-1;GIL beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;HUGA;MEG_3281;FO-2;FO beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;IMP;MEG_3391;IMP-13;IMP beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;KPNO;MEG_3516;Kaer_Omp36;General Bacterial Porin with reduced permeability to beta-lactams;biocide;;reduced permeability to antibiotic
+MEGARes;beta-lactam;MECA;MEG_3791;mecA;methicillin resistant PBP2;;;antibiotic target replacement
+MEGARes;beta-lactam;MECI;MEG_3804;mecI;methicillin resistant PBP2;;;antibiotic target replacement
+MEGARes;beta-lactam;MOX;MEG_8255;MOX-25;MOX beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;MOX;MEG_4024;MOX-9;MOX beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;MUS;MEG_4098;MUS-1;MUS beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;MUS;MEG_4099;MUS-2;MUS beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OCH;MEG_4230;OCH-7;OCH beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OMP37;MEG_4283;"	Kpne_OmpK37";General Bacterial Porin with reduced permeability to beta-lactams;;;"	reduced permeability to antibiotic"
+MEGARes;beta-lactam;OMPD;MEG_4285;Omp1;General Bacterial Porin with reduced permeability to beta-lactams;;;"	reduced permeability to antibiotic"
+MEGARes;beta-lactam;OXA;MEG_4980;OXA-1;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_8431;OXA-1005;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_8434;OXA-1041;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4601;OXA-1156;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4600;OXA-1160;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4747;OXA-20;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4797;OXA-296;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4910;OXA-299;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4810;OXA-299;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4750;OXA-347;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_5062;OXA-362;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_5063;OXA-363;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_5259;OXA-58;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_5261;OXA-58;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4651;OXA-609;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4425;OXA-646;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4679;OXA-648;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4741;OXA-85;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_8382;OXA-917;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_8423;OXA-981;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;OXA;MEG_4806;OXA-999;OXA beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;PBP2;MEG_5400;PBP2;Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics;;;antibiotic target replacement
+MEGARes;beta-lactam;PBP4B;MEG_5409;PDC-391;PDC beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;PER;MEG_5769;PER-2;PER beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;PME;MEG_5793;PME-1;PME beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;ROB;MEG_6080;ROB-1;ROB beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;ROB;MEG_8668;ROB-12;ROB beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;ROB;MEG_6078;ROB-2;ROB beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;TEM;MEG_6909;TEM-1;TEM beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;TEM;MEG_6875;TEM-1/TEM-2;TEM beta-lactamase;;;antibiotic inactivation
+MEGARes;beta-lactam;TUS;MEG_7326;TUS-1;TUS beta-lactamase;;;antibiotic inactivation
+MEGARes;broad-spectrum efflux pump;ACRA;MEG_399;Ecol_acrA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;ACRB;MEG_401;acrB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;ACRD;MEG_404;acrD;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;ACRD;MEG_407;acrD;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;ACRE;MEG_408;AcrE;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;ACRF;MEG_409;AcrF;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;ACRS;MEG_415;AcrS;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;ASMA;MEG_1180;asmA;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;BAER;MEG_1192;baeR;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;BAES;MEG_1193;baeS;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;BCR;MEG_1210;bcr-1;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;BCRCM;MEG_1217;emrE;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;BEXA;MEG_1229;hmrM;multidrug and toxic compound extrusion (MATE) transporter;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;CMR;MEG_1779;cmr;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;CPXAR;MEG_2121;cpxA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;CPXAR;MEG_2115;cpxA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;CPXAR;MEG_2116;cpxA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;CPXAR;MEG_2118;cpxA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;CPXAR;MEG_2122;cpxR;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;CPXAR;MEG_2117;Paer_CpxR;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;CPXAR;MEG_2120;Paer_CpxR;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;CRP;MEG_2132;CRP;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;EVGS;MEG_2870;evgS;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;EVGS;MEG_2869;evgS;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;GADW;MEG_3081;gadW;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;GADX;MEG_3083;gadX;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;HNS;MEG_3271;H-NS;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;KDEA;MEG_3447;Ecol_mdfA;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;KPN;MEG_3513;"	Kpne_KpnH";major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;KPNE;MEG_3514;Kpne_KpnE;small multidrug resistance (SMR) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;KPNF;MEG_3515;Kpne_KpnF;small multidrug resistance (SMR) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MARA;MEG_3662;marA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MARA;MEG_3661;marA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MARR;MEG_3663;marR;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MDFA;MEG_3737;Ecol_mdfA;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MDTE;MEG_3751;mdtE;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MDTF;MEG_3752;mdtF;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MDTI;MEG_3756;mdtI;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MDTJ;MEG_3757;mdtJ;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MDTM;MEG_3761;mdtM;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MEFC;MEG_3828;mef(C);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MEXC1;MEG_8247;MexC;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;MEXT;MEG_3934;MexT;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;OQXA;MEG_4333;oqxA;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;OQXB;MEG_4368;oqxB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;OQXB;MEG_4364;oqxB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;QACC;MEG_5825;qacG;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;QACEDELTA1;MEG_5829;qacEdelta1;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;QACF;MEG_5833;qacL;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;QACG;MEG_5846;qacG;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;QACG;MEG_5845;qacL;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;QACH;MEG_5847;qacH;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;QACH;MEG_8649;qacH;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;QACJ;MEG_5849;qacJ;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;QACK;MEG_5850;qacE;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;RAMA;MEG_6044;ramA;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;ROBA;MEG_6082;robA;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;RSMA;MEG_8686;rsmA;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;SME;MEG_6521;smeD;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;SME;MEG_6522;smeE;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;SMR;MEG_6534;ykkC;small multidrug resistance (SMR) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;SOXS;MEG_6551;soxS;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;metal;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;VEXB;MEG_7669;MexW;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;broad-spectrum efflux pump;YAJC;MEG_8741;YajC;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;fluoroquinolone;EMRA;MEG_2722;emrA;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;EMRA;MEG_2721;emrA;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;EMRASM;MEG_2723;emrA;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;EMRB;MEG_2725;emrB;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;EMRBSM;MEG_2726;emrB;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;EMRCSM;MEG_2727;emrB;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;EMRR;MEG_2734;emrR;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;EMRRSM;MEG_2735;emrR;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;MDTH;MEG_3755;mdtH;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;MDTK;MEG_3759;mdtK;multidrug and toxic compound extrusion (MATE) transporter;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;MDTK;MEG_3758;mdtK;multidrug and toxic compound extrusion (MATE) transporter;biocide;;antibiotic efflux
+MEGARes;fluoroquinolone;QNRB;MEG_8654;QnrB6;quinolone resistant protein (qnr);;;antibiotic target protection
+MEGARes;fluoroquinolone;QNRD;MEG_6013;QnrD1;quinolone resistant protein (qnr);;;antibiotic target protection
+MEGARes;fluoroquinolone;QNRS;MEG_6020;QnrS1;quinolone resistance protein (qnr);;;antibiotic target protection
+MEGARes;folic acid synthesis inhibitors ;DFRA;MEG_2495;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRA;MEG_2500;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRA;MEG_2528;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRA;MEG_2551;dfrA12;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRA;MEG_2517;dfrA14;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRA;MEG_2504;dfrA16;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRA;MEG_2547;dfrA17;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRA;MEG_8068;dfrA36;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRA;MEG_8062;dfrA36;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRA;MEG_2553;dfrA8;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target alteration
+MEGARes;folic acid synthesis inhibitors ;DFRD;MEG_2576;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRD;MEG_2574;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRF;MEG_2578;dfrF;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRG;MEG_2579;dfrG;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRK;MEG_2583;dfrK;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;DFRK;MEG_2581;dfrK;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;RBPA;MEG_6047;RbpA;RbpA bacterial RNA polymerase-binding protein;;;antibiotic target protection
+MEGARes;folic acid synthesis inhibitors ;SULI;MEG_6615;sul1;sulfomide resistant sul;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;SULI;MEG_6616;sul1;sulfomide resistant sul;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;SULII;MEG_6617;sul2;sulfomide resistant sul;;;antibiotic target replacement
+MEGARes;folic acid synthesis inhibitors ;SULIII;MEG_6639;sul3;sulfomide resistant sul;;;antibiotic target replacement
+MEGARes;fusidic acid;FUSD;MEG_3070;fusD;Target protecting FusB-type protein conferring resistance to Fusidic acid;;;antibiotic target protection
+MEGARes;fusidic acid;FUSF;MEG_3072;FusF;Target protecting FusB-type protein conferring resistance to Fusidic acid;;;antibiotic target protection
+MEGARes;glycopeptide;BLE;MEG_1460;bleO;Bleomycin resistant protein;;;antibiotic inactivation
+MEGARes;glycopeptide;VAN;MEG_7334;vanU_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANG;MEG_7397;vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANG;MEG_7396;vanXY_in_vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANHB;MEG_7417;vanH_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANRB;MEG_7460;vanR_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANRG;MEG_7481;vanR_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANRO;MEG_7485;vanR_in_vanO_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANRS;MEG_8725;vanR_in_vanO_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANSB;MEG_7496;vanS_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANSG;MEG_7513;vanS_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANTG;MEG_7532;vanT_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANWB;MEG_7540;vanW_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANWG;MEG_7543;vanW_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANYB;MEG_7598;vanY_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;glycopeptide;VANYG;MEG_7614;vanY_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+MEGARes;MLS;ANT3-DPRIME;MEG_826;msr(G);msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;CFR;MEG_1679;cfrC;Cfr 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;CFR;MEG_1680;cfrC;Cfr 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERED;MEG_2754;EreD;macrolide esterase;;;antibiotic inactivation
+MEGARes;MLS;ERM;MEG_2756;Erm(35);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERM;MEG_2765;Erm(43);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERM;MEG_2770;Erm(45);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERM;MEG_2768;Erm(47);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERM;MEG_2772;Erm(49);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERM51;MEG_8082;Erm(51);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERM52;MEG_8083;Erm(52);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMB;MEG_2794;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMB;MEG_2801;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMB;MEG_2799;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMB;MEG_2793;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMB;MEG_2805;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMB;MEG_2798;ErmY;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMB;MEG_2800;vatE;streptogramin vat acetyltransferase;;;antibiotic inactivation
+MEGARes;MLS;ERMC;MEG_2808;ErmC;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMC;MEG_2822;ErmC;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMC;MEG_2821;ErmC;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMF;MEG_2832;ErmF;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMF;MEG_2833;ErmF;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMG;MEG_2834;ErmG;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMG;MEG_2835;ErmG;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMQ;MEG_2841;ErmQ;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMQ;MEG_2842;ErmQ;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMT;MEG_2847;ErmT;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMT;MEG_2848;ErmT;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMX;MEG_2860;ErmX;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;ERMX;MEG_2857;ErmX;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;LNUA;MEG_3608;lnuA;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+MEGARes;MLS;LNUA;MEG_3606;lnuA;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+MEGARes;MLS;LNUA;MEG_3604;lnuA;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+MEGARes;MLS;LNUC;MEG_3610;lnuC;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+MEGARes;MLS;LNUC;MEG_3611;lnuD;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+MEGARes;MLS;LNUF;MEG_3615;lnuF;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+MEGARes;MLS;LNUG;MEG_3620;lnuG;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+MEGARes;MLS;LNUP;MEG_3621;lnuP;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+MEGARes;MLS;LSA;MEG_3641;lsaE;lsa-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;LSAB;MEG_3646;lsaB;lsa-type ABC-F protein;;;antibiotic target alteration
+MEGARes;MLS;LSAE;MEG_3648;lnuB;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+MEGARes;MLS;MEFA;MEG_3813;mel;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MEFA;MEG_3815;mel;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MEFA;MEG_3817;mel;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MEFA;MEG_3809;mel;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MEFA;MEG_3824;mel;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MEFA;MEG_3819;mel;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MEFE;MEG_3830;Mef(En2);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;MLS;MEFF;MEG_8244;mef(F);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;MLS;MPHA;MEG_4030;mphA;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+MEGARes;MLS;MPHB;MEG_4031;mphB;macrolide phosphotransferase;;;antibiotic inactivation
+MEGARes;MLS;MPHB;MEG_4033;mphB;macrolide phosphotransferase;;;antibiotic inactivation
+MEGARes;MLS;MPHC;MEG_4037;mphC;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+MEGARes;MLS;MPHC;MEG_4034;mphC;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+MEGARes;MLS;MPHC;MEG_4039;mphC;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+MEGARes;MLS;MPHE;MEG_4044;mphE;macrolide phosphotransferase;;;antibiotic inactivation
+MEGARes;MLS;MPHG;MEG_4045;mphG;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+MEGARes;MLS;MPHN;MEG_4051;mphB;macrolide phosphotransferase;;;antibiotic inactivation
+MEGARes;MLS;MPHO;MEG_4052;mphO;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+MEGARes;MLS;MSRA;MEG_4070;msrA;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MSRA;MEG_4068;msrA;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MSRD;MEG_4074;msrD;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MSRD;MEG_4073;msrD;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MSRE;MEG_4075;msrE;msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MSRG;MEG_8260;msr(G);msr-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;MVRC;MEG_4103;Ecol_emrE;small multidrug resistance (SMR) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;MLS;MYRA;MEG_4107;myrA;non-erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;RLMH;MEG_6058;RlmA;non-erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+MEGARes;MLS;RPOB;MEG_8674;ado_rpoB_RIF;rifamycin-resistant beta-subunit of R polymerase (rpoB);;;antibiotic target alteration
+MEGARes;MLS;SALA;MEG_6156;salA;sal-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;SALB;MEG_8688;salB;sal-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;SALC;MEG_8689;salC;sal-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;VATE;MEG_7626;vatE;streptogramin vat acetyltransferase;;;antibiotic inactivation
+MEGARes;MLS;VGA;MEG_7679;vgaALC;vga-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;VGA;MEG_7682;vgaC;vga-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;VGA;MEG_7683;vgaE;vga-type ABC-F protein;;;antibiotic target protection
+MEGARes;MLS;VGAE;MEG_7690;vgaE;vga-type ABC-F protein;;;antibiotic target protection
+MEGARes;mupirocin;ILES;MEG_3295;ileS;antibiotic-resistant isoleucyl-tR synthetase;;;antibiotic efflux
+MEGARes;nitroimidazole;MSBA;MEG_4061;msbA;ATP-binding cassette (ABC) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;nitroimidazole;NIMB;MEG_4180;nimB;nitroimidazole reductase;;;antibiotic inactivation
+MEGARes;nitroimidazole;NIMH;MEG_4187;nimH;nitroimidazole reductase;;;antibiotic inactivation
+MEGARes;nitroimidazole;NIMJ;MEG_4194;nimJ;nitroimidazole reductase;;;antibiotic inactivation
+MEGARes;nucleoside;MDTN;MEG_3763;mdtN;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;nucleoside;MDTO;MEG_3764;mdtO;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;nucleoside;MDTP;MEG_3765;mdtP;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;nucleoside;SAT;MEG_6159;SAT-2;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+MEGARes;nucleoside;SAT;MEG_6166;SAT-4;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+MEGARes;peptide;ARNT;MEG_7976;ArnT;pmr phosphoethanolamine transferase;;;antibiotic target alteration
+MEGARes;peptide;BACA;MEG_1189;bacA;undecaprenyl pyrophosphate related proteins;;;antibiotic target alteration
+MEGARes;peptide;BACA;MEG_1190;bacA;undecaprenyl pyrophosphate related proteins;;;antibiotic target alteration
+MEGARes;peptide;EPTA;MEG_2739;eptA;pmr phosphoethanolamine transferase;;;antibiotic target alteration
+MEGARes;peptide;MPRF;MEG_4056;Cper_mprF;defensin resistant mprF;;;antibiotic target alteration
+MEGARes;peptide;OMPA;MEG_8288;OmpA;General Bacterial Porin with reduced permeability to peptide antibiotics;;;reduced permeability to antibiotic
+MEGARes;peptide;PMRF;MEG_5801;PmrF;pmr phosphoethanolamine transferase;;;antibiotic target alteration
+MEGARes;peptide;UGD;MEG_7328;ugd;pmr phosphoethanolamine transferase;;;antibiotic target alteration
+MEGARes;peptide;YOGI;MEG_7842;YojI;ATP-binding cassette (ABC) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;phenicol;CAT;MEG_1559;Lreu_cat-TC;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+MEGARes;phenicol;CATA;MEG_1575;"	catA8";chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+MEGARes;phenicol;CATA;MEG_1584;catA1;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+MEGARes;phenicol;CATA;MEG_1581;Efac_ACT_CHL;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+MEGARes;phenicol;CATS;MEG_1633;catP;chloramphenicol acetyltransferase;;;antibiotic inactivation
+MEGARes;phenicol;CML;MEG_8020;"	cmlA9";major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;phenicol;CMLA;MEG_1768;cmlA1;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;phenicol;CMLB;MEG_1775;cmlB1;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;phenicol;CMX;MEG_1785;cmx;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;phenicol;EMRD;MEG_2729;emrD;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;phenicol;FLOR;MEG_2912;floR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;phenicol;FLOR;MEG_2923;floR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;phenicol;FLOR;MEG_2921;floR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;phosphonic acid antibiotic;FOSA;MEG_2998;fosA5;fosfomycin thiol transferase;;;antibiotic inactivation
+MEGARes;phosphonic acid antibiotic;FOSA;MEG_2987;FosA6;fosfomycin thiol transferase;;;antibiotic inactivation
+MEGARes;phosphonic acid antibiotic;FOSA;MEG_2997;FosA6;fosfomycin thiol transferase;;;antibiotic inactivation
+MEGARes;phosphonic acid antibiotic;FOSD;MEG_3018;FosD;fosfomycin thiol transferase;;;antibiotic inactivation
+MEGARes;phosphonic acid antibiotic;FOSE;MEG_3019;FosE;fosfomycin thiol transferase;;;antibiotic inactivation
+MEGARes;phosphonic acid antibiotic;FOSK;MEG_3023;FosK;fosfomycin thiol transferase;;;antibiotic inactivation
+MEGARes;phosphonic acid antibiotic;FOSU;MEG_8094;FosA2;fosfomycin thiol transferase;;;antibiotic inactivation
+MEGARes;phosphonic acid antibiotic;FOSY;MEG_8095;FosY;fosfomycin thiol transferase;;;antibiotic inactivation
+MEGARes;phosphonic acid antibiotic;MDTG;MEG_3753;mdtG;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;phosphonic acid antibiotic;MDTG;MEG_3754;mdtG;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;tetracycline;EMRK;MEG_2732;emrK;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;tetracycline;EMRY;MEG_2736;emrY;major facilitator superfamily (MFS) antibiotic efflux pump;biocide;;antibiotic efflux
+MEGARes;tetracycline;TET31;MEG_6968;tet(31);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TET32;MEG_6970;tet(32);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TET33;MEG_6975;tet(33);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TET33;MEG_6973;tet(33);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TET36;MEG_6979;tet(36);tetracycline-resistant ribosomal protection protein;;;antibiotic target alteration
+MEGARes;tetracycline;TET39;MEG_6987;tet(39);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TET40;MEG_6991;tet(40);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TET40;MEG_6994;tet(40);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TET44;MEG_6997;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TET44;MEG_6998;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TET57;MEG_7010;tet(57);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETA;MEG_7024;tet(A);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETA;MEG_7014;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETB;MEG_7052;tet(B);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETB;MEG_7050;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETBP;MEG_7055;tetB(P);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETC;MEG_7059;tet(C);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETD;MEG_7070;tet(D);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETE;MEG_7072;tet(E);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETG;MEG_7078;tet(G);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETH;MEG_7082;tet(H);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETH;MEG_7084;tet(H);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETK;MEG_7090;tet(K);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETK;MEG_7089;tet(K);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETL;MEG_7094;tet(L);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETL;MEG_7095;tet(L);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+MEGARes;tetracycline;TETM;MEG_7144;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETM;MEG_7146;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETM;MEG_7112;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETM;MEG_7145;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETM;MEG_7126;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETM;MEG_7139;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETM;MEG_7142;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETM;MEG_7115;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETM;MEG_7147;tet(S);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETO;MEG_7149;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETO;MEG_7150;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETO;MEG_7154;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETO;MEG_7161;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETO;MEG_7165;tet(O/M/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETQ;MEG_7178;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETQ;MEG_7180;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETQ;MEG_7181;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETQ;MEG_7182;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETQ;MEG_7184;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETQ;MEG_7179;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETQ;MEG_7183;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETS;MEG_7200;tet(S);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETT;MEG_7202;tet(T);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETW;MEG_7213;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETW;MEG_7229;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETW;MEG_7227;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETW;MEG_7223;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETW;MEG_7226;tet(W/32/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+MEGARes;tetracycline;TETW;MEG_7228;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target alteration
+MEGARes;tetracycline;TETW;MEG_7212;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target alteration
+MEGARes;tetracycline;TETW;MEG_7225;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target alteration
+MEGARes;tetracycline;TETX;MEG_7238;tet(X);tetracycline inactivation enzyme;;;antibiotic inactivation
+MEGARes;tetracycline;TETX;MEG_8718;tet(x5);tetracycline inactivation enzyme;;;
+MEGARes;tetracycline;TETX;MEG_7244;tetX6;tetracycline inactivation enzyme;;;antibiotic inactivation
+MEGARes;tetracycline;TETX;MEG_8717;tetX6;tetracycline inactivation enzyme;;;antibiotic inactivation
+MEGARes;tetracycline;TETY;MEG_7245;tet(Y);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic inactivation
+MEGARes;tetracycline;TETZ;MEG_7247;tet(Z);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;aminoglycoside;aac(3)-IIa;NG_047245.1;AAC(3)-Iia;AAC(3);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aac(3)-IIe;NG_047244.1;AAC(3)-Iie;AAC(3);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aac(6')_E449;NG_242163.1;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aac(6')_E64;NG_242168.1;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aac(6')-Iad;NG_047276.1;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aac(6')-Ib4;NG_051844.1;AAC(6')-Ib4;AAC(6');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aac(6')-Iid;NG_047299.1;AAC(6')-Iid;AAC(6');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aac(6')-Im;NG_047306.1;AAC(6')-Im;AAC(6');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aacA-ENT2;NG_052337.1;AAC(6')-Iid;AAC(6');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA1;NG_052279.1;aadA;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA11;NG_051873.1;aadA;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA11;NG_047330.1;aadA11;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA11;NG_047332.1;aadA11;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA11;NG_047331.1;aadA11;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA13;NG_047334.1;aadA13;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA2;NG_047343.1;aadA2;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA2;NG_051846.1;aadA2;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA22;NG_052404.1;aadA22;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA5;NG_047357.1;aadA5;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA5;NG_047358.1;aadA5;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA7;NG_047365.1;aadA7;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA9;NG_047370.1;aadA9;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;ant(2'')-Ia;NG_047387.1;ANT(2'')-Ia;ANT(2'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;ant(2'')-Ia;NG_052432.1;ANT(2'')-Ia;ANT(2'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;ant(3'')-IIa;NG_054649.1;ANT(3'')-IIa;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;ant(4')-Ia;NG_047373.1;ANT(4')-Ia;ANT(4');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;ant(6)-Ia;NG_047395.1;aad(6);ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;ant(9)-Ia;NG_047397.1;ANT(9)-Ia;ANT(9);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;ant(9)-Ib;NG_047398.1;ANT(9)-Ib;ANT(9);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(2'')-Ih;NG_047408.1;APH(2'')-If;"APH(2"")";;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(2'')-Ii;NG_149647.1;AAC6_Ie_APH2_Ia;aminoglycoside bifunctional resistance protein;;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(2'')-IIIa;NG_047399.1;APH(2'')-IIIa;APH(2'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(3')-H510;NG_242175.1;"	APH(3')-VIIa";APH(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(3')-Ia;NG_047431.1;APH(3')-Ia;APH(3');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(3')-IX;NG_055648.1;APH(3')-IXa;APH(3');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(3')-VIa;NG_047448.1;APH(3')-Via;APH(3');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;rmtF2;NG_051537.1;rmtF;16S rRNA methyltransferase (G1405);;;antibiotic target alteration
+NCBI AMRFinderPlus;aminoglycoside;str;NG_048080.1;aadK;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaARL-1;NG_054950.1;ARL-1;ARL Beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaCARB-5;NG_048750.1;"	CARB-5";CARB beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaCARB-8;NG_048753.1;CARB-8;CARB beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaCBP-1;NG_048756.1;CBP-1;CBP beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaEBR-2;NG_057443.1;EBR-2;EBR beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaEBR-3;NG_066507.1;EBR-3;EBR beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaEBR-4;NG_073461.1;EBR-4;EBR beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaEC-13;NG_049079.1;EC-13;EC beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaEC-15;NG_049081.1;EC-15;EC beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaEC-18;NG_049083.1;EC-18;EC beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaGIL-1;NG_049142.1;GIL-1;GIL beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaIMP-13;NG_049176.1;IMP-13;IMP beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaMOX-25;NG_148635.1;MOX-25;MOX beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaMOX-9;NG_049322.1;MOX-9;MOX beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaMUS-1;NG_049324.1;MUS-1;MUS beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaMUS-2;NG_049325.1;MUS-2;MUS beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOCH;NG_231519.1;OCH-7;OCH beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-1;NG_049392.1;"	OXA-1";OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-1005;NG_078026.1;OXA-1005;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-1041;NG_078050.1;OXA-1041;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-1156;NG_148644.1;OXA-1156;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-1160;NG_148648.1;OXA-1160;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-2;NG_049496.1;OXA-2;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-20;NG_049497.1;OXA-20;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-296;NG_049591.1;OXA-296;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-299;NG_049594.1;OXA-299;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-347;NG_049639.1;OXA-347;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-362;NG_049655.1;OXA-362;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-363;NG_049656.1;OXA-363;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-646;NG_065432.1;OXA-646;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-648;NG_065434.1;OXA-648;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-85;NG_050724.1;OXA-85;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-917;NG_070181.1;OXA-917;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-981;NG_078002.1;OXA-981;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-999;NG_078020.1;OXA-999;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaPER-2;NG_049961.1;PER-2;PER beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaPME-1;NG_049973.1;PME-1;PME beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaRATA-1;NG_149671.1;RATA-1;RATA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaROB-1;NG_049977.1;ROB-1;ROB beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaROB-12;NG_074752.1;ROB-12;ROB beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaROB-13;NG_059321.1;ROB-1;ROB beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaTEM-1;NG_050145.1;TEM-1;TEM beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaTEM-150;NG_050194.1;TEM-150;TEM beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaTUS-1;NG_050315.1;TUS-1;TUS beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaZ-mecC;NG_047535.1;mecC-type_BlaZ;BlaZ beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;cepA;NG_047625.1;CepA-49;CepA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;cepA-29;NG_050385.1;CepA-29;CepA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;cfiA27;NG_071228.1;CfiA27;CfiA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;cfxA;NG_047633.1;"	CfxA";CfxA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;cfxA2;NG_047639.1;CfxA2;"class A beta-la	CfxA beta-lactamasectamase";;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;mecA1;NG_047949.1;mecA;methicillin resistant PBP2;;;antibiotic target replacement
+NCBI AMRFinderPlus;broad-spectrum efflux pump;mef(C);NG_047979.1;mef(C);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;broad-spectrum efflux pump;oqxA6;NG_050424.1;oqxA;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;broad-spectrum efflux pump;oqxB11;NG_050429.1;oqxB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+NCBI AMRFinderPlus;broad-spectrum efflux pump;tmexC3;NG_076635.1;MexC;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;fluoroquinolone;qnrB35;NG_050497.1;QnrB35;quinolone resistant protein (qnr);;;antibiotic target protection
+NCBI AMRFinderPlus;fluoroquinolone;qnrB89;NG_076813.1;QnrB6;quinolone resistant protein (qnr);;;antibiotic target protection
+NCBI AMRFinderPlus;fluoroquinolone;qnrD1;NG_050541.1;QnrD1;quinolone resistant protein (qnr);;;antibiotic target protection
+NCBI AMRFinderPlus;fluoroquinolone;qnrS1;NG_050543.1;QnrS1;quinolone resistance protein (qnr);;;antibiotic target protection
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA1;NG_047677.1;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA14;NG_047696.1;dfrA14;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA17;NG_047710.1;dfrA17;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA41;NG_148595.1;dfrA3;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA45;NG_148596.1;dfrA26;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA8;NG_047741.1;dfrA8;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target alteration
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrK;NG_047759.1;dfrK;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrL;NG_203373.1;dfrL;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;sul1;NG_048081.1;sul1;sulfomide resistant sul;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;sul1;NG_048089.1;sul1;sulfomide resistant sul;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;sul3;NG_048120.1;sul3;sulfomide resistant sul;;;antibiotic target replacement
+NCBI AMRFinderPlus;fusidic acid;fusD;NG_050585.1;fusD;Target protecting FusB-type protein conferring resistance to Fusidic acid;;;antibiotic target protection
+NCBI AMRFinderPlus;fusidic acid;fusF;NG_047904.1;FusF;Target protecting FusB-type protein conferring resistance to Fusidic acid;;;antibiotic target protection
+NCBI AMRFinderPlus;glycopeptide;bleO;NG_047557.1;bleO;Bleomycin resistant protein;;;antibiotic inactivation
+NCBI AMRFinderPlus;glycopeptide;vanH-B;NG_048377.1;vanH_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanP;NG_088565.1;vanP;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanR-O;NG_048424.1;vanR_in_vanO_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanR-Sc;NG_070726.1;vanR_in_vanO_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanS-B;NG_048439.1;vanS_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanW-G;NG_048468.1;anW_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanX-B;NG_048485.1;vanX_gene_in_vanB_cluster;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanX-P;NG_088382.1;"	vanX_in_vanP_cl";glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;cfr(C);NG_060579.1;cfrC;Cfr 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(35);NG_047778.1;Erm(35);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(43);NG_047786.1;Erm(43);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(45);NG_047788.1;Erm(45);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(49);NG_065843.1;Erm(49);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(51);NG_080764.1;Erm(51);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(56);NG_231528.1;Erm(56);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(B);NG_047797.1;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(B);NG_047801.1;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(B);NG_047798.1;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(B);NG_047802.1;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(C);NG_047814.1;ErmC;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(C);NG_047806.1;ErmC;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(C);NG_047805.1;ErmC;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(F);NG_047823.1;ErmF;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(F);NG_047825.1;ErmF;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(G);NG_047829.1;ErmG;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(G);NG_047827.1;ErmG;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(T);NG_047841.1;ErmT;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(X);NG_047852.1;ErmX;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(X);NG_047853.1;ErmX;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(Y);NG_047855.1;ErmY;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;lnu(A);NG_047916.1;lnuA;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lnu(A)';NG_050416.1;lnuA;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lnu(AN2);NG_047920.1;lnuA;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lnu(D);NG_047925.1;lnuD;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lnu(F);NG_051883.1;lnuF;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lsa(B);NG_047933.1;lsaB;lsa-type ABC-F protein;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;mef(A);NG_047968.1;mel;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;mef(A);NG_047977.1;mel;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;mef(A);NG_047973.1;mel;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;mef(En2);NG_047980.1;Mef(En2);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;MLS;mef(F);NG_080767.1;mef(F);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;MLS;mph(A);NG_047986.1;mphA;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;mph(C);NG_047990.1;mphC;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;mph(C);NG_047992.1;mphC;macrolide phosphotransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;mph(C);NG_047989.1;mphC;macrolide phosphotransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;mph(G);NG_047998.1;mphG;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;msr(A);NG_048000.1;msrA;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;msr(D);NG_048006.1;msrD;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;msr(E);NG_048007.1;msrE;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;sal(A);NG_048067.1;salA;sal-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;sal(B);NG_148601.1;salB;sal-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;sal(C);NG_148602.1;salC;sal-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;vat(E);NG_048544.1;vatE;streptogramin vat acetyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;vat(E);NG_048545.1;vatE;streptogramin vat acetyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;vga(A);NG_048553.1;vgaALC;vga-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;vga(E);NG_048561.1;vgaE;vga-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;vga(E);NG_065854.1;vgaE;vga-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;phenicol;cat-TC;NG_047562.1;Lreu_cat-TC;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+NCBI AMRFinderPlus;phenicol;catA1;NG_047582.1;catA1;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+NCBI AMRFinderPlus;phenicol;catA8;NG_047574.1;"	catA8";chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+NCBI AMRFinderPlus;phenicol;catA8;NG_047578.1;Efac_ACT_CHL;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+NCBI AMRFinderPlus;phenicol;catB11;NG_050948.1;catB11;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+NCBI AMRFinderPlus;phenicol;catB2;NG_047602.1;catB2;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+NCBI AMRFinderPlus;phenicol;cml_Ochro;NG_070888.1;"	cmlA9";major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;phenicol;cmlA1;NG_047648.1;cmlA1;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;phenicol;cmlB1;NG_047658.1;cmlB1;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;phenicol;floR;NG_047869.1;floR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;phenicol;floR2;NG_047875.1;floR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;phosphonic acid antibiotic;fosA_gen;NG_047885.1;fosA5;fosfomycin thiol transferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;phosphonic acid antibiotic;fosA6;NG_051497.1;FosA6;fosfomycin thiol transferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;phosphonic acid antibiotic;fosK;NG_047898.1;FosK;fosfomycin thiol transferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;phosphonic acid antibiotic;fosU1;NG_073485.1;FosA2;fosfomycin thiol transferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;phosphonic acid antibiotic;fosY;NG_079881.1;FosY;fosfomycin thiol transferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;tetracycline;tet(31);NG_048123.1;tet(31);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(32);NG_048125.1;tet(32);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(40);NG_048140.1;tet(40);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(A);NG_048154.1;tet(A);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(A);NG_048153.1;tet(A);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(B);NG_048163.1;tet(B);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(C);NG_048181.1;tet(C);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(E);NG_048188.1;tet(E);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(G);NG_048190.1;tet(G);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(H);NG_048197.1;tet(H);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(K);NG_048200.1;tet(K);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(L);NG_048203.1;tet(L);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(M);NG_048235.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(M);NG_048213.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(M);NG_048223.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(M);NG_048212.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(M);NG_048220.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(O);NG_048254.1;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(Q);NG_048270.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(S);NG_048275.2;tet(S);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(S);NG_048273.1;tet(S);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(T);NG_048278.1;tet(T);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(W);NG_048303.1;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(W);NG_048300.1;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(W);NG_048295.1;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(X5);NG_073455.1;tet(x5);tetracycline inactivation enzyme;;;
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aac(3)-IVa;NG_047253.1;AAC(3)-Iva;AAC(3);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aac(6')_E111;NG_242162.1;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aad9;NG_047322.1;ANT(9)-Ia;ANT(9);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA1;NG_047327.1;aadA;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA1;NG_052247.1;aadA;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA1;NG_052266.1;aadA;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA27;NG_054660.1;aadA27;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA31;NG_057462.1;aadA14;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA9;NG_047368.1;aadA9;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadE;NG_047378.1;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadS;NG_047380.1;aadS;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;ant(6)-Ia;NG_047393.1;aad(6);ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;ant(6)-Ia;NG_050582.1;ANT(6)-Ia;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;ant(6)-Ib;NG_047396.1;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(3'')-Ib;NG_047413.1;APH(3'')-Ib;APH(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(3')-Ia;NG_047440.1;APH(3')-Ia;APH(3');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(3')-IIa;NG_047417.1;APH(3')-IIa;APH(3');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(3')-IIIa;NG_047418.1;APH(3')-Ia;APH(3');;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(4)-Ia;NG_047456.1;APH(4)-Ia;APH(4);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(6)-Id;NG_047464.1;APH(6)-Id;APH(6);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(6)-Id;NG_047465.1;APH(6)-Id;APH(6);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;spw;NG_048075.1;ANT(9)-Ia;APH(9);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;str;NG_048078.1;aadK;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaACI-1;NG_048596.1;ACI-1;ACI beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaCARB-16;NG_048718.1;CARB-16;CARB beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaEBR-5;NG_088387.1;EBR-5;EBR beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaEC-19;NG_049084.1;Ecol_ampC_BLA;ampC-type beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaOXA-58;NG_049798.1;OXA-58;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaOXA-609;NG_057518.1;OXA-609;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;cfxA_fam;NG_047634.1;CfxA2;"class A beta-la	CfxA beta-lactamasectamase";;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;cfxA6;NG_064793.1;CfxA6;CfxA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;hugA;NG_047909.1;FO-2;FO beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;mecI_of_mecA;NG_055650.1;mecI;methicillin resistant PBP2;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;broad-spectrum efflux pump;oqxB;NG_048025.1;oqxB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA1;NG_047676.1;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA1;NG_052353.1;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA12;NG_047689.1;dfrA12;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA16;NG_047706.1;dfrA16;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA20;NG_047714.1;dfrA20;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA36;NG_065842.1;dfrA36;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA40;NG_148594.1;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA44;NG_073446.2;dfrA36;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrD;NG_047754.1;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrF;NG_047755.1;dfrF;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrG;NG_047756.1;dfrG;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrK;NG_047761.1;dfrK;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;sul1;NG_048082.1;sul1;sulfomide resistant sul;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;sul1;NG_048083.1;sul1;sulfomide resistant sul;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;sul2;NG_051852.1;sul2;sulfomide resistant sul;;;antibiotic target replacement
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanB;NG_048340.1;vanB;glycopeptide resistance gene cluster ;;;"	antibiotic target alteration"
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanD;NG_048364.1;vanD;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanG;NG_048369.1;vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanG2;NG_048370.1;vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanH-B;NG_048379.1;vanH_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanH-D;NG_048385.1;vanR_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanR-B;NG_048410.1;vanR_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanR-G;NG_048411.1;vanR_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanS-G;NG_048435.1;vanS_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanT-G;NG_048457.1;vanT_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanU-G;NG_048466.1;vanU_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanW-B;NG_048472.1;vanW_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanW-G;NG_048471.1;vanW_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanX-D;NG_048490.1;vanX_in_vanD_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanXY-G;NG_048501.1;vanXY_in_vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanXY-G2;NG_048502.1;vanXY_in_vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanY-B;NG_048519.1;vanY_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanY-G1;NG_048528.1;vanY_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;MLS;cfr(E);NG_070225.1;cfrE;Cfr 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;MLS;ere(D);NG_047771.1;EreD;macrolide esterase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(47);NG_054944.1;Erm(47);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(52);NG_080765.1;Erm(52);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(B);NG_047794.1;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(B);NG_047804.1;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(Q);NG_047835.1;ErmQ;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(T);NG_047840.1;ErmT;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;MLS;estT;NG_203374.1;EstT;macrolide esterase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;MLS;lnu(B);NG_047923.1;lnuB;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;MLS;lnu(C);NG_047924.1;lnuC;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;MLS;lnu(G);NG_051760.1;lnuG;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;MLS;lnu(H);NG_081670.1;LnuH;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;MLS;lnu(P);NG_047929.1;lnuP;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;MLS;lsa(E);NG_047935.1;lsaE;lsa-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;MLS;mef(A);NG_047966.1;mel;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;MLS;mef(A);NG_047967.1;mel;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;MLS;mef(A);NG_047970.1;mel;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;MLS;mef(F);NG_074691.1;mef(F);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;MLS;mph(B);NG_047988.1;mphB;macrolide phosphotransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;MLS;mph(E);NG_064660.1;mphE;macrolide phosphotransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;MLS;msr(D);NG_048005.1;msrD;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;MLS;msr(G);NG_071179.1;msr(G);msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;MLS;vga(C);NG_048559.1;vgaC;vga-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;nitroimidazole;nimB;NG_048012.1;nimB;nitroimidazole reductase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;nitroimidazole;nimJ;NG_048017.1;nimJ;nitroimidazole reductase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;nucleoside;sat2_fam;NG_048068.1;SAT-2;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;nucleoside;sat2_fam;NG_051936.1;SAT-2;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;nucleoside;sat4;NG_048072.1;SAT-4;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;phenicol;catP;NG_047623.1;catP;chloramphenicol acetyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;phenicol;cmx;NG_047664.1;cmx;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;phosphonic acid antibiotic;fosD;NG_047892.1;FosD;fosfomycin thiol transferase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;phosphonic acid antibiotic;fosE;NG_047893.1;FosE;fosfomycin thiol transferase;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(33);NG_048127.1;tet(33);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(36);NG_048131.1;tet(36);tetracycline-resistant ribosomal protection protein;;;antibiotic target alteration
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(39);NG_048137.1;tet(39);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(40);NG_048141.1;tet(40);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(44);NG_048145.1;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(44);NG_048146.1;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(57);NG_056039.1;tet(57);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(H);NG_048194.1;tet(H);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(L);NG_048209.1;tet(L);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(M);NG_048247.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(M);NG_048252.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(O);NG_048258.1;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(O);NG_048262.1;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(O);NG_048264.1;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(O/M/O);NG_048259.1;tet(O/M/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Q);NG_048268.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Q);NG_048269.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Q);NG_048271.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Q);NG_048272.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(W);NG_048281.1;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(W);NG_048282.1;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(W);NG_048297.1;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(W);NG_055990.1;tet(W/32/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(W/N/W);NG_062353.1;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(X2);NG_048305.1;tet(X);tetracycline inactivation enzyme;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(X5);NG_048306.1;tetX6;tetracycline inactivation enzyme;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Y);NG_048309.1;tet(Y);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic inactivation
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Z);NG_048311.1;tet(Z);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tetA(P);NG_048314.1;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tetA(P);NG_048316.1;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tetB(P);NG_048319.1;tetB(P);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;aminoglycoside;aac(3)-IIa_1;X51534;AAC(3)-Iia;AAC(3);;;antibiotic inactivation
+ResFinder;aminoglycoside;aac(3)-IIa_3;X13543;AAC(3)-Iia;AAC(3);;;antibiotic inactivation
+ResFinder;aminoglycoside;aac(3)-IVa_1;X01385;AAC(3)-Iva;AAC(3);;;antibiotic inactivation
+ResFinder;aminoglycoside;aac(6')-aph(2'')_1;M13771;AAC6_Ie_APH2_Ia;aminoglycoside bifunctional resistance protein;;;antibiotic inactivation
+ResFinder;aminoglycoside;aac(6')-Iad_1;AB119105;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
+ResFinder;aminoglycoside;aac(6')-Iid_1;AJ584700;AAC(6')-Iid;AAC(6');;;antibiotic inactivation
+ResFinder;aminoglycoside;aac(6')-Im_1;AF337947;AAC(6')-Im;AAC(6');;;antibiotic inactivation
+ResFinder;aminoglycoside;aadA11_1;AY144590;aadA11;ANT(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aadA11_2;AJ567827;aadA;ANT(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aadA13_1;AY713504;aadA13;ANT(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aadA14_1;AJ884726;aadA14;ANT(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aadA2_1;NC_010870;aadA2;ANT(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aadA24_1;AM711129;aadA22;ANT(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aadA5_1;AF137361;aadA5;ANT(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aadA7_1;AF224733;aadA7;ANT(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aadA9_1;AJ420072;aadA9;ANT(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aadD_1;AF181950;ANT(4')-Ia;ANT(4');;;antibiotic inactivation
+ResFinder;aminoglycoside;ant(2'')-Ia_1;X04555;ANT(2'')-Ia;ANT(2'');;;antibiotic inactivation
+ResFinder;aminoglycoside;ant(2'')-Ia_13;DQ176450;ANT(2'')-Ia;ANT(2'');;;antibiotic inactivation
+ResFinder;aminoglycoside;ant(3'')-Ia_1;X02340;aadA;ANT(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;ant(6)-Ia_1;AF330699;aad(6);ANT(6);;;antibiotic inactivation
+ResFinder;aminoglycoside;ant(6)-Ia_2;KF421157;ANT(6)-Ia;ANT(6);;;antibiotic inactivation
+ResFinder;aminoglycoside;ant(6)-Ia_3;KF864551;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
+ResFinder;aminoglycoside;ant(6)-Ib_1;FN594949;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
+ResFinder;aminoglycoside;ant(9)-Ia_1;X02588;ANT(9)-Ia;ANT(9);;;antibiotic inactivation
+ResFinder;aminoglycoside;ant(9)-Ia_2;M69221;ANT(9)-Ib;ANT(9);;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(2'')-Ic_1;U51479;APH(2'')-IIIa;APH(2'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(2'')-Ih_1;KF652096;APH(2'')-If;"APH(2"")";;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(3'')-Ib_2;AF024602;APH(3'')-Ib;APH(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(3'')-Ib_5;AF321551;APH(3'')-Ib;APH(3'');;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(3')-Ia_10;EU855787;APH(3')-Ia;APH(3');;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(3')-Ia_7;X62115;APH(3')-Ia;APH(3');;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(3')-IIa_2;V00618;APH(3')-IIa;APH(3');;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(3')-III_1;M26832;APH(3')-Ia;APH(3');;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(3')-IX_1;APPN01000061;APH(3')-IXa;APH(3');;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(3')-VIa_1;X07753;APH(3')-Via;APH(3');;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(4)-Ia_1;V01499;APH(4)-Ia;APH(4);;;antibiotic inactivation
+ResFinder;aminoglycoside;aph(6)-Id_1;M28829;APH(6)-Id;APH(6);;;antibiotic inactivation
+ResFinder;aminoglycoside;rmtF_1;JQ808129;rmtF;16S rRNA methyltransferase (G1405);;;antibiotic target alteration
+ResFinder;aminoglycoside;str_1;X92946;aadK;ANT(6);;;antibiotic inactivation
+ResFinder;aminoglycoside;str_2;FN435330;aadK;ANT(6);;;antibiotic inactivation
+ResFinder;beta-lactam;blaACI-1_1;AJ007350;ACI-1;ACI beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaCARB-16_1;HF953351;CARB-16;CARB beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaCARB-5_1;AF135373;"	CARB-6";CARB beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaCARB-8_1;AY178993;CARB-8;CARB beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaCMY-1_1;X92508;CMY-1;CMY beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaEBR-1_1;AF416700;EBR-5;EBR beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaIMP-13_1;AJ550807;IMP-13;IMP beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaMOX-6_1;GQ152601;MOX-25;MOX beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaMUS-1_1;AF441286;MUS-1;MUS beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOCH-7_1;AJ295345;OCH-7;OCH beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-1_1;HQ170510;"	OXA-1";OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-193_1;CP013032;OXA-609;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-2_1;DQ112222;OXA-2;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-20_2;AF024602;OXA-20;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-283_1;AYHO01000005;OXA-283;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-296_1;APOH01000009;OXA-296;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-299_1;APQD01000016;OXA-299;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-308;APPN01000080;OXA-999;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-308_1;APPN01000080;OXA-981;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-347_1;ACWG01000053;OXA-347;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-362_1;KF460532;OXA-362;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-363_1;KF460533;OXA-646;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-427_1;KX827604;OCA-1156;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-453_1;KR061507;OXA-609;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-496_1;KT200608;OCA-648;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-58_1;AY665723;OXA-58;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaOXA-85_1;JANA01000064;OXA-85;OXA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaPER-2_1;X93314;PER-2;PER beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaPME-1_1;HQ541434;PME-1;PME beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaROB-1_1;DQ840517;ROB-1;ROB beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaTEM-1A_1;HM749966;TEM-150;TEM beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaTEM-1B_1;AY458016;TEM-1;TEM beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaTUS-1_1;AF441287;TUS-1;TUS beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;blaZ_8;HE993884;mecC-type_BlaZ;BlaZ beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;cepA_1;L13472;CepA-49;CepA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;cepA-29_1;U05884;CepA-29;CepA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;cfiA13_1;FM200787;CfiA27;CfiA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;cfxA_1;U38243;"	CfxA";CfxA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;cfxA3_1;AF472622;CfxA2;"class A beta-la	CfxA beta-lactamasectamase";;;antibiotic inactivation
+ResFinder;beta-lactam;cfxA6_1;GQ342996;CfxA6;CfxA beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;hugA_1;AF324468;FO-2;FO beta-lactamase;;;antibiotic inactivation
+ResFinder;beta-lactam;mecA1_3;Y13094;mecA;methicillin resistant PBP2;;;antibiotic target replacement
+ResFinder;broad-spectrum efflux pump;cmr_1;U43535;cmr;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;broad-spectrum efflux pump;mef(C)_1;AB571865;mef(C);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;broad-spectrum efflux pump;OqxA_1;EU370913;oqxA;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;broad-spectrum efflux pump;OqxB_1;EU370913;oqxB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+ResFinder;broad-spectrum efflux pump;tmexC1_1;MK347425;MexC;resistance-nodulation-cell division (RND) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;fluoroquinolone;qnrB35_1;JN173057;QnrB35;quinolone resistant protein (qnr);;;antibiotic target protection
+ResFinder;fluoroquinolone;qnrB89_1;MT544491;QnrB6;quinolone resistant protein (qnr);;;antibiotic target protection
+ResFinder;fluoroquinolone;qnrD1_1;FJ228229;QnrD1;quinolone resistant protein (qnr);;;antibiotic target protection
+ResFinder;fluoroquinolone;qnrS10_1;JN836269;QnrS1;quinolone resistance protein (qnr);;;antibiotic target protection
+ResFinder;folic acid synthesis inhibitors ;dfrA1_10;AF203818;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrA1_3;GU726913;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrA1_8;X00926;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrA12_8;AM040708;dfrA12;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrA14_5;DQ388123;dfrA14;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrA16_2;AF174129;dfrA16;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrA17_1;FJ460238;dfrA17;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrA20_1;AJ605332;dfrA20;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrA36_1;CP038791;dfrA38;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrA8_1;U10186;dfrA8;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target alteration
+ResFinder;folic acid synthesis inhibitors ;dfrD_1;Z50141;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrG_1;AB205645;dfrG;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrK_1;FN377602;dfrK;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;dfrK_2;FN677369;dfrK;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;sul1_2;U12338;sul1;sulfomide resistant sul;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;sul1_5;EU780013;sul1;sulfomide resistant sul;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;sul1_9;AY963803;sul1;sulfomide resistant sul;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;sul2_14;AJ514834;sul2;sulfomide resistant sul;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;sul2_2;AY034138;sul2;sulfomide resistant sul;;;antibiotic target replacement
+ResFinder;folic acid synthesis inhibitors ;sul3_2;AJ459418;sul3;sulfomide resistant sul;;;antibiotic target replacement
+ResFinder;glycopeptide;bleO_1;AF051917;bleO;Bleomycin resistant protein;;;antibiotic inactivation
+ResFinder;glycopeptide;VanG2XY_1;FJ872410;vanXY_in_vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ResFinder;glycopeptide;VanGXY_1;AY271782;vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ResFinder;glycopeptide;VanHBX_1;AF192329;vanH_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+ResFinder;MLS;cfr(C)_1;KX686749;cfrC;Cfr 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;cfr(C)_2;CANB01000378;cfrC;Cfr 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;Cfr(E)_1;NG_070225;cfrE;Cfr 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;ere(D)_1;KP265721;EreD;macrolide esterase;;;antibiotic inactivation
+ResFinder;MLS;erm(35)_1;AF319779;Erm(35);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(43)_1;HE650138;Erm(43);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(45)_1;LN680996;Erm(45);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(47)_1;KU612222;Erm(47);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(50)_1;LC473083;Erm(51);Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(B)_1;JN899585;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(B)_12;U18931;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(B)_18;X66468;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(B)_23;X72021;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(B)_6;AF242872;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(C)_1;V01278;ErmC;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(C)_12;Y09003;ErmC;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(C)_13;M13761;ErmC;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(F)_3;M17808;ErmF;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(F)_4;M62487;ErmF;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(G)_1;M15332;ErmG;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(Q)_1;L22689;ErmQ;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(T)_2;AY894138;ErmT;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(T)_4;AJ488494;ErmT;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(X)_1;M36726;ErmX;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(X)_4;NC_005206;ErmX;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;erm(Y)_1;AB014481;ErmY;Erm 23S ribosomal RNA methyltransferase;;;antibiotic target alteration
+ResFinder;MLS;lnu(A)_1;M14039;lnuA;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+ResFinder;MLS;lnu(B)_2;JQ861959;lnuB;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+ResFinder;MLS;lnu(C)_1;AY928180;lnuC;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+ResFinder;MLS;lnu(D)_1;EF452177;lnuD;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+ResFinder;MLS;lnu(F)_3;AJ561197;lnuF;lincosamide nucleotidyltransferase (LNU);;;antibiotic inactivation
+ResFinder;MLS;lnu(G)_1;KX470419;lnuG;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+ResFinder;MLS;lnu(P)_1;FJ589781;lnuP;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+ResFinder;MLS;lsa(B)_1;AJ579365;lsaB;lsa-type ABC-F protein;;;antibiotic target alteration
+ResFinder;MLS;lsa(E)_1;JX560992;lsaE;lsa-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;mef(A)_1;AJ971089;mel;msr-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;mef(A)_2;U83667;mel;msr-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;mef(A)_3;AF227520;mel;msr-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;mph(A)_2;U36578;mphA;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+ResFinder;MLS;mph(B)_1;D85892;mphB;macrolide phosphotransferase;;;antibiotic inactivation
+ResFinder;MLS;mph(C)_1;AB013298;mphC;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+ResFinder;MLS;mph(C)_2;AF167161;mphC;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+ResFinder;MLS;mph(C)_3;AM180068;mphC;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+ResFinder;MLS;mph(C)_4;AM397632;mphC;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+ResFinder;MLS;mph(E)_1;DQ839391;mphE;macrolide phosphotransferase;;;antibiotic inactivation
+ResFinder;MLS;mph(G)_1;AB571865;mphG;macrolide phosphotransferase (MPH);;;antibiotic inactivation
+ResFinder;MLS;mph(N)_1;KF648874;mphB;macrolide phosphotransferase;;;antibiotic inactivation
+ResFinder;MLS;msr(A)_2;AB013298;msrA;msr-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;msr(D)_2;AF274302;msrD;msr-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;msr(D)_3;AF227520;msrD;msr-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;msr(E)_1;FR751518;msrE;msr-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;sal(A)_1;KC693025;salA;sal-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;vat(E)_10;AY043212;vatE;streptogramin vat acetyltransferase;;;antibiotic inactivation
+ResFinder;MLS;vat(E)_5;AJ488494;vatE;streptogramin vat acetyltransferase;;;antibiotic inactivation
+ResFinder;MLS;vga(A)V_1;AF186237;vgaALC;vga-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;vga(C)_1;FN806792;vgaC;vga-type ABC-F protein;;;antibiotic target protection
+ResFinder;MLS;vga(E)_1;FR772051;vgaE;vga-type ABC-F protein;;;antibiotic target protection
+ResFinder;nitroimidazole;nimB_1;X71443;nimB;nitroimidazole reductase;;;antibiotic inactivation
+ResFinder;nitroimidazole;nimH_1;KX576455;nimB;nitroimidazole reductase;;;antibiotic inactivation
+ResFinder;nitroimidazole;nimJ_1;NZ_JH815495;nimJ;nitroimidazole reductase;;;antibiotic inactivation
+ResFinder;phenicol;cat_5;U35036;"	catA8";chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ResFinder;phenicol;cat(pC194)_1;NC_002013;Lreu_cat-TC;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ResFinder;phenicol;cat(pC233)_1;AY355285;Efac_ACT_CHL;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ResFinder;phenicol;catA1_1;V00622;catA1;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ResFinder;phenicol;catB2_1;AF047479;catB2;chloramphenicol acetyltransferase (CAT);;;antibiotic inactivation
+ResFinder;phenicol;catP_1;U15027;catP;chloramphenicol acetyltransferase;;;antibiotic inactivation
+ResFinder;phenicol;catS_1;X74948;catP;chloramphenicol acetyltransferase;;;antibiotic inactivation
+ResFinder;phenicol;cmlA1_1;M64556;cmlA1;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;phenicol;cmlB1_1;AM296481;cmlB1;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;phenicol;cmx_1;U85507;cmx;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;phenicol;floR_1;AF071555;floR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;phenicol;floR_2;AF118107;floR;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;phosphonic acid antibiotic;fosA_2;AGDM01000012;fosA5;fosfomycin thiol transferase;;;antibiotic inactivation
+ResFinder;phosphonic acid antibiotic;fosA6_1;KU254579;FosA6;fosfomycin thiol transferase;;;antibiotic inactivation
+ResFinder;phosphonic acid antibiotic;fosD_1;KC989517;FosD;fosfomycin thiol transferase;;;antibiotic inactivation
+ResFinder;phosphonic acid antibiotic;fosE_1;AB901041;FosE;fosfomycin thiol transferase;;;antibiotic inactivation
+ResFinder;phosphonic acid antibiotic;fosK_1;AB917040;FosK;fosfomycin thiol transferase;;;antibiotic inactivation
+ResFinder;phosphonic acid antibiotic;fosY_1;MN961674;FosY;fosfomycin thiol transferase;;;antibiotic inactivation
+ResFinder;tetracycline;tet(31)_1;GQ283908;tet(31);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(32)_1;EU722333;tet(32);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(32)_2;EF626943;tet(32);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(33)_1;AY255627;tet(33);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(36)_1;AJ514254;tet(36);tetracycline-resistant ribosomal protection protein;;;antibiotic target alteration
+ResFinder;tetracycline;tet(39)_1;KT346360;tet(39);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(40)_1;FJ158002;tet(40);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(44)_1;NZ_ABDU01000081;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(44)_2;FN594949;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(57)_1;KP137702;tet(57);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(A)_4;AJ517790;tet(A);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(A)_6;AF534183;tet(A);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(B)_2;AF326777;tet(B);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(C)_3;AF055345;tet(C);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(E)_3;CP000645;tet(E);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(G)_1;AF133139;tet(G);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(H)_2;AJ245947;tet(H);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(H)_3;Y15510;tet(H);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(K)_1;U38656;tet(K);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(L)_1;HM235948;tet(L);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(L)_2;M29725;tet(L);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tet(M)_1;X92947;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(M)_10;EU182585;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(M)_13;AM990992;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(M)_7;FN433596;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(M)_8;X04388;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(O)_1;M18896;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(O)_2;M20925;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(O/32/O)_5;FP929050;tet(O/M/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(Q)_1;L33696;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(Q)_2;X58717;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(Q)_3;U73497;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(Q)_4;Z21523;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(S)_3;X92946;tet(S);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(S/M)_2;AY534326;tet(S);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(T)_1;L42544;tet(T);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(W)_1;DQ060146;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(W)_2;AY049983;tet(W/32/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(W)_3;AJ427421;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(W)_4;FN396364;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(W)_5;AJ427422;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+ResFinder;tetracycline;tet(X)_1;GU014535;tet(X);tetracycline inactivation enzyme;;;antibiotic inactivation
+ResFinder;tetracycline;tet(X)_2;M37699;tet(X);tetracycline inactivation enzyme;;;antibiotic inactivation
+ResFinder;tetracycline;tet(X)_3;AB097942;tetX6;tetracycline inactivation enzyme;;;antibiotic inactivation
+ResFinder;tetracycline;tet(X5)_1;CP040912;tet(x5);tetracycline inactivation enzyme;;;
+ResFinder;tetracycline;tet(X6)_1;MN507533;tetX6;tetracycline inactivation enzyme;;;antibiotic inactivation
+ResFinder;tetracycline;tet(Y)_1;EF495198;tet(Y);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic inactivation
+ResFinder;tetracycline;tet(Z)_1;AF121000;tet(Z);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tetA(P)_1;AB054980;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tetA(P)_2;L20800;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+ResFinder;tetracycline;tetB(P)_1;NC_010937;tetB(P);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
