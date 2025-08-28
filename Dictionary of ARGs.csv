@@ -1155,137 +1155,137 @@ NCBI AMRFinderPlus;tetracycline;tet(W);NG_048303.1;tet(W);tetracycline-resistant
 NCBI AMRFinderPlus;tetracycline;tet(W);NG_048300.1;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
 NCBI AMRFinderPlus;tetracycline;tet(W);NG_048295.1;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
 NCBI AMRFinderPlus;tetracycline;tet(X5);NG_073455.1;tet(x5);tetracycline inactivation enzyme;;;
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aac(3)-IVa;NG_047253.1;AAC(3)-Iva;AAC(3);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aac(6')_E111;NG_242162.1;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aad9;NG_047322.1;ANT(9)-Ia;ANT(9);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA1;NG_047327.1;aadA;ANT(3'');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA1;NG_052247.1;aadA;ANT(3'');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA1;NG_052266.1;aadA;ANT(3'');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA27;NG_054660.1;aadA27;ANT(3'');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA31;NG_057462.1;aadA14;ANT(3'');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadA9;NG_047368.1;aadA9;ANT(3'');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadE;NG_047378.1;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aadS;NG_047380.1;aadS;ANT(6);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;ant(6)-Ia;NG_047393.1;aad(6);ANT(6);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;ant(6)-Ia;NG_050582.1;ANT(6)-Ia;ANT(6);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;ant(6)-Ib;NG_047396.1;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(3'')-Ib;NG_047413.1;APH(3'')-Ib;APH(3'');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(3')-Ia;NG_047440.1;APH(3')-Ia;APH(3');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(3')-IIa;NG_047417.1;APH(3')-IIa;APH(3');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(3')-IIIa;NG_047418.1;APH(3')-Ia;APH(3');;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(4)-Ia;NG_047456.1;APH(4)-Ia;APH(4);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(6)-Id;NG_047464.1;APH(6)-Id;APH(6);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;aph(6)-Id;NG_047465.1;APH(6)-Id;APH(6);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;spw;NG_048075.1;ANT(9)-Ia;APH(9);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;aminoglycoside;str;NG_048078.1;aadK;ANT(6);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaACI-1;NG_048596.1;ACI-1;ACI beta-lactamase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaCARB-16;NG_048718.1;CARB-16;CARB beta-lactamase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaEBR-5;NG_088387.1;EBR-5;EBR beta-lactamase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaEC-19;NG_049084.1;Ecol_ampC_BLA;ampC-type beta-lactamase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaOXA-58;NG_049798.1;OXA-58;OXA beta-lactamase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;blaOXA-609;NG_057518.1;OXA-609;OXA beta-lactamase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;cfxA_fam;NG_047634.1;CfxA2;"class A beta-la	CfxA beta-lactamasectamase";;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;cfxA6;NG_064793.1;CfxA6;CfxA beta-lactamase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;hugA;NG_047909.1;FO-2;FO beta-lactamase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;beta-lactam;mecI_of_mecA;NG_055650.1;mecI;methicillin resistant PBP2;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;broad-spectrum efflux pump;oqxB;NG_048025.1;oqxB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA1;NG_047676.1;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA1;NG_052353.1;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA12;NG_047689.1;dfrA12;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA16;NG_047706.1;dfrA16;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA20;NG_047714.1;dfrA20;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA36;NG_065842.1;dfrA36;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA40;NG_148594.1;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrA44;NG_073446.2;dfrA36;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrD;NG_047754.1;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrF;NG_047755.1;dfrF;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrG;NG_047756.1;dfrG;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;dfrK;NG_047761.1;dfrK;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;sul1;NG_048082.1;sul1;sulfomide resistant sul;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;sul1;NG_048083.1;sul1;sulfomide resistant sul;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;folic acid synthesis inhibitors ;sul2;NG_051852.1;sul2;sulfomide resistant sul;;;antibiotic target replacement
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanB;NG_048340.1;vanB;glycopeptide resistance gene cluster ;;;"	antibiotic target alteration"
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanD;NG_048364.1;vanD;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanG;NG_048369.1;vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanG2;NG_048370.1;vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanH-B;NG_048379.1;vanH_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanH-D;NG_048385.1;vanR_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanR-B;NG_048410.1;vanR_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanR-G;NG_048411.1;vanR_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanS-G;NG_048435.1;vanS_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanT-G;NG_048457.1;vanT_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanU-G;NG_048466.1;vanU_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanW-B;NG_048472.1;vanW_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanW-G;NG_048471.1;vanW_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanX-D;NG_048490.1;vanX_in_vanD_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanXY-G;NG_048501.1;vanXY_in_vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanXY-G2;NG_048502.1;vanXY_in_vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanY-B;NG_048519.1;vanY_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;glycopeptide;vanY-G1;NG_048528.1;vanY_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;MLS;cfr(E);NG_070225.1;cfrE;Cfr 23S ribosomal R methyltransferase;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;MLS;ere(D);NG_047771.1;EreD;macrolide esterase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(47);NG_054944.1;Erm(47);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(52);NG_080765.1;Erm(52);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(B);NG_047794.1;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(B);NG_047804.1;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(Q);NG_047835.1;ErmQ;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;MLS;erm(T);NG_047840.1;ErmT;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;MLS;estT;NG_203374.1;EstT;macrolide esterase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;MLS;lnu(B);NG_047923.1;lnuB;lincosamide nucleotidyltransferase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;MLS;lnu(C);NG_047924.1;lnuC;lincosamide nucleotidyltransferase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;MLS;lnu(G);NG_051760.1;lnuG;lincosamide nucleotidyltransferase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;MLS;lnu(H);NG_081670.1;LnuH;lincosamide nucleotidyltransferase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;MLS;lnu(P);NG_047929.1;lnuP;lincosamide nucleotidyltransferase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;MLS;lsa(E);NG_047935.1;lsaE;lsa-type ABC-F protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;MLS;mef(A);NG_047966.1;mel;msr-type ABC-F protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;MLS;mef(A);NG_047967.1;mel;msr-type ABC-F protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;MLS;mef(A);NG_047970.1;mel;msr-type ABC-F protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;MLS;mef(F);NG_074691.1;mef(F);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;MLS;mph(B);NG_047988.1;mphB;macrolide phosphotransferase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;MLS;mph(E);NG_064660.1;mphE;macrolide phosphotransferase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;MLS;msr(D);NG_048005.1;msrD;msr-type ABC-F protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;MLS;msr(G);NG_071179.1;msr(G);msr-type ABC-F protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;MLS;vga(C);NG_048559.1;vgaC;vga-type ABC-F protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;nitroimidazole;nimB;NG_048012.1;nimB;nitroimidazole reductase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;nitroimidazole;nimJ;NG_048017.1;nimJ;nitroimidazole reductase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;nucleoside;sat2_fam;NG_048068.1;SAT-2;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;nucleoside;sat2_fam;NG_051936.1;SAT-2;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;nucleoside;sat4;NG_048072.1;SAT-4;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;phenicol;catP;NG_047623.1;catP;chloramphenicol acetyltransferase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;phenicol;cmx;NG_047664.1;cmx;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;phosphonic acid antibiotic;fosD;NG_047892.1;FosD;fosfomycin thiol transferase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;phosphonic acid antibiotic;fosE;NG_047893.1;FosE;fosfomycin thiol transferase;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(33);NG_048127.1;tet(33);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(36);NG_048131.1;tet(36);tetracycline-resistant ribosomal protection protein;;;antibiotic target alteration
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(39);NG_048137.1;tet(39);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(40);NG_048141.1;tet(40);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(44);NG_048145.1;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(44);NG_048146.1;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(57);NG_056039.1;tet(57);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(H);NG_048194.1;tet(H);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(L);NG_048209.1;tet(L);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(M);NG_048247.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(M);NG_048252.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(O);NG_048258.1;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(O);NG_048262.1;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(O);NG_048264.1;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(O/M/O);NG_048259.1;tet(O/M/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Q);NG_048268.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Q);NG_048269.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Q);NG_048271.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Q);NG_048272.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(W);NG_048281.1;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(W);NG_048282.1;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(W);NG_048297.1;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(W);NG_055990.1;tet(W/32/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(W/N/W);NG_062353.1;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(X2);NG_048305.1;tet(X);tetracycline inactivation enzyme;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(X5);NG_048306.1;tetX6;tetracycline inactivation enzyme;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Y);NG_048309.1;tet(Y);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic inactivation
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tet(Z);NG_048311.1;tet(Z);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tetA(P);NG_048314.1;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tetA(P);NG_048316.1;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
-NCBI AMRFinderPlus AMRFinderPlus;tetracycline;tetB(P);NG_048319.1;tetB(P);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;aminoglycoside;aac(3)-IVa;NG_047253.1;AAC(3)-Iva;AAC(3);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aac(6')_E111;NG_242162.1;AAC(6')-Iad;AAC(6');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aad9;NG_047322.1;ANT(9)-Ia;ANT(9);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA1;NG_047327.1;aadA;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA1;NG_052247.1;aadA;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA1;NG_052266.1;aadA;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA27;NG_054660.1;aadA27;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA31;NG_057462.1;aadA14;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadA9;NG_047368.1;aadA9;ANT(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadE;NG_047378.1;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aadS;NG_047380.1;aadS;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;ant(6)-Ia;NG_047393.1;aad(6);ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;ant(6)-Ia;NG_050582.1;ANT(6)-Ia;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;ant(6)-Ib;NG_047396.1;ANT(6)-Ib;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(3'')-Ib;NG_047413.1;APH(3'')-Ib;APH(3'');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(3')-Ia;NG_047440.1;APH(3')-Ia;APH(3');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(3')-IIa;NG_047417.1;APH(3')-IIa;APH(3');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(3')-IIIa;NG_047418.1;APH(3')-Ia;APH(3');;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(4)-Ia;NG_047456.1;APH(4)-Ia;APH(4);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(6)-Id;NG_047464.1;APH(6)-Id;APH(6);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;aph(6)-Id;NG_047465.1;APH(6)-Id;APH(6);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;spw;NG_048075.1;ANT(9)-Ia;APH(9);;;antibiotic inactivation
+NCBI AMRFinderPlus;aminoglycoside;str;NG_048078.1;aadK;ANT(6);;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaACI-1;NG_048596.1;ACI-1;ACI beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaCARB-16;NG_048718.1;CARB-16;CARB beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaEBR-5;NG_088387.1;EBR-5;EBR beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaEC-19;NG_049084.1;Ecol_ampC_BLA;ampC-type beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-58;NG_049798.1;OXA-58;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;blaOXA-609;NG_057518.1;OXA-609;OXA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;cfxA_fam;NG_047634.1;CfxA2;"class A beta-la	CfxA beta-lactamasectamase";;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;cfxA6;NG_064793.1;CfxA6;CfxA beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;hugA;NG_047909.1;FO-2;FO beta-lactamase;;;antibiotic inactivation
+NCBI AMRFinderPlus;beta-lactam;mecI_of_mecA;NG_055650.1;mecI;methicillin resistant PBP2;;;antibiotic target replacement
+NCBI AMRFinderPlus;broad-spectrum efflux pump;oqxB;NG_048025.1;oqxB;resistance-nodulation-cell division (RND) antibiotic efflux pump;biocide;;antibiotic efflux
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA1;NG_047676.1;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA1;NG_052353.1;dfrA1;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA12;NG_047689.1;dfrA12;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA16;NG_047706.1;dfrA16;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA20;NG_047714.1;dfrA20;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA36;NG_065842.1;dfrA36;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA40;NG_148594.1;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrA44;NG_073446.2;dfrA36;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrD;NG_047754.1;dfrD;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrF;NG_047755.1;dfrF;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrG;NG_047756.1;dfrG;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;dfrK;NG_047761.1;dfrK;trimethoprim resistant dihydrofolate reductase dfr;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;sul1;NG_048082.1;sul1;sulfomide resistant sul;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;sul1;NG_048083.1;sul1;sulfomide resistant sul;;;antibiotic target replacement
+NCBI AMRFinderPlus;folic acid synthesis inhibitors ;sul2;NG_051852.1;sul2;sulfomide resistant sul;;;antibiotic target replacement
+NCBI AMRFinderPlus;glycopeptide;vanB;NG_048340.1;vanB;glycopeptide resistance gene cluster ;;;"	antibiotic target alteration"
+NCBI AMRFinderPlus;glycopeptide;vanD;NG_048364.1;vanD;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanG;NG_048369.1;vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanG2;NG_048370.1;vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanH-B;NG_048379.1;vanH_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanH-D;NG_048385.1;vanR_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanR-B;NG_048410.1;vanR_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanR-G;NG_048411.1;vanR_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanS-G;NG_048435.1;vanS_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanT-G;NG_048457.1;vanT_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanU-G;NG_048466.1;vanU_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanW-B;NG_048472.1;vanW_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanW-G;NG_048471.1;vanW_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanX-D;NG_048490.1;vanX_in_vanD_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanXY-G;NG_048501.1;vanXY_in_vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanXY-G2;NG_048502.1;vanXY_in_vanG;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanY-B;NG_048519.1;vanY_in_vanB_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;glycopeptide;vanY-G1;NG_048528.1;vanY_in_vanG_cl;glycopeptide resistance gene cluster ;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;cfr(E);NG_070225.1;cfrE;Cfr 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;ere(D);NG_047771.1;EreD;macrolide esterase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;erm(47);NG_054944.1;Erm(47);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(52);NG_080765.1;Erm(52);Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(B);NG_047794.1;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(B);NG_047804.1;ErmB;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(Q);NG_047835.1;ErmQ;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;erm(T);NG_047840.1;ErmT;Erm 23S ribosomal R methyltransferase;;;antibiotic target alteration
+NCBI AMRFinderPlus;MLS;estT;NG_203374.1;EstT;macrolide esterase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lnu(B);NG_047923.1;lnuB;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lnu(C);NG_047924.1;lnuC;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lnu(G);NG_051760.1;lnuG;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lnu(H);NG_081670.1;LnuH;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lnu(P);NG_047929.1;lnuP;lincosamide nucleotidyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;lsa(E);NG_047935.1;lsaE;lsa-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;mef(A);NG_047966.1;mel;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;mef(A);NG_047967.1;mel;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;mef(A);NG_047970.1;mel;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;mef(F);NG_074691.1;mef(F);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;MLS;mph(B);NG_047988.1;mphB;macrolide phosphotransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;mph(E);NG_064660.1;mphE;macrolide phosphotransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;MLS;msr(D);NG_048005.1;msrD;msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;msr(G);NG_071179.1;msr(G);msr-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;MLS;vga(C);NG_048559.1;vgaC;vga-type ABC-F protein;;;antibiotic target protection
+NCBI AMRFinderPlus;nitroimidazole;nimB;NG_048012.1;nimB;nitroimidazole reductase;;;antibiotic inactivation
+NCBI AMRFinderPlus;nitroimidazole;nimJ;NG_048017.1;nimJ;nitroimidazole reductase;;;antibiotic inactivation
+NCBI AMRFinderPlus;nucleoside;sat2_fam;NG_048068.1;SAT-2;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+NCBI AMRFinderPlus;nucleoside;sat2_fam;NG_051936.1;SAT-2;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+NCBI AMRFinderPlus;nucleoside;sat4;NG_048072.1;SAT-4;streptothricin acetyltransferase (SAT);;;antibiotic inactivation
+NCBI AMRFinderPlus;phenicol;catP;NG_047623.1;catP;chloramphenicol acetyltransferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;phenicol;cmx;NG_047664.1;cmx;major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;phosphonic acid antibiotic;fosD;NG_047892.1;FosD;fosfomycin thiol transferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;phosphonic acid antibiotic;fosE;NG_047893.1;FosE;fosfomycin thiol transferase;;;antibiotic inactivation
+NCBI AMRFinderPlus;tetracycline;tet(33);NG_048127.1;tet(33);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(36);NG_048131.1;tet(36);tetracycline-resistant ribosomal protection protein;;;antibiotic target alteration
+NCBI AMRFinderPlus;tetracycline;tet(39);NG_048137.1;tet(39);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(40);NG_048141.1;tet(40);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(44);NG_048145.1;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(44);NG_048146.1;tet(44);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(57);NG_056039.1;tet(57);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(H);NG_048194.1;tet(H);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(L);NG_048209.1;tet(L);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tet(M);NG_048247.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(M);NG_048252.1;tet(M);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(O);NG_048258.1;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(O);NG_048262.1;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(O);NG_048264.1;tet(O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(O/M/O);NG_048259.1;tet(O/M/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(Q);NG_048268.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(Q);NG_048269.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(Q);NG_048271.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(Q);NG_048272.1;tet(Q);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(W);NG_048281.1;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(W);NG_048282.1;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(W);NG_048297.1;tet(W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(W);NG_055990.1;tet(W/32/O);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(W/N/W);NG_062353.1;tet(W/N/W);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
+NCBI AMRFinderPlus;tetracycline;tet(X2);NG_048305.1;tet(X);tetracycline inactivation enzyme;;;antibiotic inactivation
+NCBI AMRFinderPlus;tetracycline;tet(X5);NG_048306.1;tetX6;tetracycline inactivation enzyme;;;antibiotic inactivation
+NCBI AMRFinderPlus;tetracycline;tet(Y);NG_048309.1;tet(Y);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic inactivation
+NCBI AMRFinderPlus;tetracycline;tet(Z);NG_048311.1;tet(Z);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tetA(P);NG_048314.1;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tetA(P);NG_048316.1;tetA(P);major facilitator superfamily (MFS) antibiotic efflux pump;;;antibiotic efflux
+NCBI AMRFinderPlus;tetracycline;tetB(P);NG_048319.1;tetB(P);tetracycline-resistant ribosomal protection protein;;;antibiotic target protection
 ResFinder;aminoglycoside;aac(3)-IIa_1;X51534;AAC(3)-Iia;AAC(3);;;antibiotic inactivation
 ResFinder;aminoglycoside;aac(3)-IIa_3;X13543;AAC(3)-Iia;AAC(3);;;antibiotic inactivation
 ResFinder;aminoglycoside;aac(3)-IVa_1;X01385;AAC(3)-Iva;AAC(3);;;antibiotic inactivation
